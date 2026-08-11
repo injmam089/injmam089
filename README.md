@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hi, I'm Inmam Ansari
 
-<!--
-**injmam089/injmam089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 BCA Student | Java & Web Developer | Cybersecurity & Cloud Enthusiast
 
-Here are some ideas to get you started:
+I'm a BCA student passionate about building useful software, learning modern technologies, and exploring cybersecurity and cloud computing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 BCA Student
+- 💻 Interested in Java & Full-Stack Development
+- 🌐 Learning Web Development
+- 🔐 Exploring Cybersecurity
+- ☁️ Exploring Cloud Computing
+- 🚀 Building projects and learning every day
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Database & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+### 🍽️ Restaurant Management System
+Modern restaurant management project with menu and ordering functionality.
+
+### 🎓 Student Management System
+Full-stack student management system with multiple user roles and database integration.
+
+### 🛒 E-Commerce Website
+Modern responsive e-commerce website with product browsing and shopping functionality.
+
+### 💼 Personal Portfolio
+Personal developer portfolio showcasing my skills, projects and experience.
+
+---
+
+## 📊 GitHub Stats
+
+![Inmam's GitHub stats](https://github-readme-stats.vercel.app/api?username=inmam089&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inmam089&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/injmam)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/injmam)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/inmam089)
+
+---
+
+### 🚀 Code. Learn. Build. Repeat.
+
+⭐ Thanks for visiting my profile!
