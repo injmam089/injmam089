@@ -59,7 +59,7 @@ Personal developer portfolio showcasing my skills, projects and experience.
 
 ## 📊 GitHub Stats
 
-![Inmam's GitHub stats](https://github-readme-stats.vercel.app/api?username=inmam089&show_icons=true&theme=tokyonight)
+![Injmam's GitHub stats](https://github-readme-stats.vercel.app/api?username=injmam089&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inmam089&layout=compact&theme=tokyonight)
 
