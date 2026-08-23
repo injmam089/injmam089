@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Inmam Ansari
+# 👋 Hi, I'm Injmam Ansari
 
 ### 💻 BCA Student | Java & Web Developer | Cybersecurity & Cloud Enthusiast
 
