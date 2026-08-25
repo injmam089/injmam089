@@ -1,80 +1,143 @@
-# 👋 Hi, I'm Injmam Ansari
+<h1 align="center">👋 Hi, I'm Injmam Ansari</h1>
 
-### 💻 BCA Student | Java & Web Developer | Cybersecurity & Cloud Enthusiast
+<h3 align="center">
+BCA Student · Java & Web Developer · Exploring Cybersecurity & Cloud
+</h3>
 
-I'm a BCA student passionate about building useful software, learning modern technologies, and exploring cybersecurity and cloud computing.
+<p align="center">
+I build small, working software and use it to learn. Right now, I'm focused on
+full-stack development while strengthening my Java and JavaScript skills,
+building my foundation in cybersecurity and cloud computing through practical projects.
+</p>
 
 ---
 
-## 🚀 About Me
+## 🎯 Currently
 
-- 🎓 BCA Student
-- 💻 Interested in Java & Full-Stack Development
-- 🌐 Learning Web Development
-- 🔐 Exploring Cybersecurity
-- ☁️ Exploring Cloud Computing
-- 🚀 Building projects and learning every day
+- 🎓 Studying BCA with a focus on programming, software development, databases, and computer science fundamentals
+- 🛠️ Building **UniPortal** and personal software projects
+- 📚 Learning cybersecurity fundamentals and cloud deployment
+- 🚀 **2026 Goal:** Build and publish a substantial cybersecurity project and prepare for internship opportunities
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
 
 ### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Projects
 
-### 🚗 *C++ Car Game*  
-A console-based car racing game developed in C++ with gameplay controls and scoring functionality.
+### 🏎️ C++ Car Game
 
-### 🍽️ Restaurant Management System
-Modern restaurant management project with menu and ordering functionality.
+A console-based car racing game developed in C++ with gameplay controls,
+scoring functionality, and native Windows API integration.
 
-### 🎓 Student Management System
-Full-stack student management system with multiple user roles and database integration.
+**Tech:** `C++` · `Windows API`
 
-### 🛒 E-Commerce Website
-Modern responsive e-commerce website with product browsing and shopping functionality.
+---
+
+### 🎓 UniPortal
+
+A modern student management system for managing student profiles,
+academic records, courses, and university-related data.
+
+**Tech:** `JavaScript` · `MySQL` · `Full-Stack`
+
+---
+
+### 🏁 CyberTorque-2D
+
+A 2D arcade racing game built in C++ using native Windows APIs,
+focused on gameplay mechanics, rendering, and interactive controls.
+
+**Tech:** `C++` · `Windows API` · `Game Development`
+
+---
 
 ### 💼 Personal Portfolio
-Personal developer portfolio showcasing my skills, projects and experience.
+
+A personal developer portfolio showcasing my skills, projects,
+and experience through a modern responsive web interface.
+
+**Tech:** `HTML` · `CSS` · `JavaScript` · `Web Development`
 
 ---
 
-## 📊 GitHub Stats
+## 🔐 Cybersecurity & Cloud — In Progress
 
-![Injmam's GitHub stats](https://github-readme-stats.vercel.app/api?username=injmam089&show_icons=true&theme=tokyonight)
+I'm actively building toward cybersecurity and cloud development through
+hands-on learning and practical projects.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inmam089&layout=compact&theme=tokyonight)
+- [ ] Build and publish my first substantial cybersecurity project
+- [ ] Deploy a project using a cloud platform
+- [ ] Complete a cybersecurity or cloud certification/course
+- [ ] Build practical security-focused tools and experiments
+
+I'm keeping this section honest — progress gets checked off as I actually complete each goal.
+
+---
+
+## 📊 GitHub Activity
+
+I'm focusing on building real projects, improving my code, and contributing
+consistently rather than chasing artificial commit numbers.
+
+My GitHub activity will grow naturally as I publish projects, improve existing
+repositories, and continue learning.
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/injmam089)
+<p align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/injmam_089)
+  <a href="https://www.linkedin.com/in/injmam089" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/injmam089)
+  <a href="https://www.instagram.com/injmam_089" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/injmam089" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:injam55@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
 
 ---
 
-### 🚀 Code. Learn. Build. Repeat.
-
-⭐ Thanks for visiting my profile!
+<p align="center">
+  <i>🚀 Code. Learn. Build. Repeat.</i>
+</p>
