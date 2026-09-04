@@ -34,39 +34,30 @@
 | ❌ Corporate profit-driven | ✅ **Community-owned** |
 
 ### 🛠️ **Technical Architecture**
-┌─────────────────────────────────────────────────────────────────────────────┐
-│ COOPERATIVE GIG PLATFORM │
-├─────────────────────────────────────────────────────────────────────────────┤
-│ │
-│ ┌──────────────┐ ┌──────────────┐ ┌──────────────┐ │
-│ │ Flutter │ │ Web SPA │ │ REST API │ │
-│ │ Mobile App │──────│ (HTML/CSS/ │──────│ (Spring │ │
-│ │ (Dart) │ │ JS) │ │ Boot 3) │ │
-│ └──────────────┘ └──────────────┘ └──────┬───────┘ │
-│ │ │
-│ ┌───────────┴───────────┐ │
-│ │ │ │
-│ ┌──────▼──────┐ ┌───────▼──────┐ │
-│ │ MySQL │ │ Python │ │
-│ │ Database │ │ FastAPI AI │ │
-│ │ (280+ │ │ (Scikit- │ │
-│ │ Workers) │ │ Learn) │ │
-│ └─────────────┘ └──────────────┘ │
-│ │
-│ ┌─────────────────────────────────────────────────────────────────────┐ │
-│ │ 🐳 Docker + Render Deployment │ │
-│ └─────────────────────────────────────────────────────────────────────┘ │
-└─────────────────────────────────────────────────────────────────────────────┘
 
-text
+**Frontend**
+- 📱 **Flutter App** — Cross-platform mobile (Dart)
+- 🌐 **Web SPA** — Single Page Application (HTML/CSS/JS)
+
+**Backend**
+- ⚙️ **Spring Boot 3** — REST API, Security, JWT
+- 🗄️ **MySQL 8.0** — Database (280+ Workers seeded)
+
+**AI/ML**
+- 🧠 **Python FastAPI** — AI Microservice
+- 🤖 **Scikit-Learn** — Random Forest Regressor (Demand Forecasting)
+
+**DevOps**
+- 🐳 **Docker** — Containerization
+- ☁️ **Render** — Cloud Deployment
 
 ### 🔑 **Live Demo Credentials**
 
 | Role | Email | Password |
 |------|-------|----------|
-| 👤 **Customer** | `customer@example.com` | `Password@123` |
-| 👷 **Worker** | `rahul.plumber@example.com` | `Password@123` |
-| ⚙️ **Admin** | `admin@sih.gov.in` | `Admin@123` |
+| 👤 **Customer** | `customer@example.com` | `Password@***` |
+| 👷 **Worker** | `rahul.plumber@example.com` | `Password@***` |
+| ⚙️ **Admin** | `admin@sih.gov.in` | `Admin@***` |
 
 ---
 
