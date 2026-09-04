@@ -1,143 +1,130 @@
-<h1 align="center">👋 Hi, I'm Injmam Ansari</h1>
+<div align="center">
+  
+# 🚀 Injmam Ansari
+### BCA Student · Full-Stack Developer · AI/ML Enthusiast
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=600&lines=Building+Production-Grade+Software;Spring+Boot+%7C+Flutter+%7C+Python+AI;0%25+Commission+%E2%80%A2+85%25+Worker+Earnings;Smart+India+Hackathon+2026+Finalist)](https://git.io/typing-svg)
 
-<h3 align="center">
-BCA Student · Java & Web Developer · Exploring Cybersecurity & Cloud
-</h3>
-
-<p align="center">
-I build small, working software and use it to learn. Right now, I'm focused on
-full-stack development while strengthening my Java and JavaScript skills,
-building my foundation in cybersecurity and cloud computing through practical projects.
-</p>
+</div>
 
 ---
 
-## 🎯 Currently
+## 🏆 **Featured Project: Cooperative Gig Services Platform**
 
-- 🎓 Studying BCA with a focus on programming, software development, databases, and computer science fundamentals
-- 🛠️ Building **UniPortal** and personal software projects
-- 📚 Learning cybersecurity fundamentals and cloud deployment
-- 🚀 **2026 Goal:** Build and publish a substantial cybersecurity project and prepare for internship opportunities
+<div align="center">
+  
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Try_It_Now-0a7e3f?style=for-the-badge&logo=render&logoColor=white)](https://cooperative-gig-platform.onrender.com)
+[![GitHub Stars](https://img.shields.io/github/stars/injmam089/cooperative-gig-platform?style=for-the-badge&logo=github&color=yellow)](https://github.com/injmam089/cooperative-gig-platform)
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
 
----
+</div>
 
-## 🛠️ Tech Stack
+> **Smart India Hackathon 2026 — Problem Statement 26089**  
+> *"Cooperative Gig Services Platform for Household & Community Services"*
 
-### Languages
+### 🌟 **Why This Project Matters**
 
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+This isn't just another gig platform. It's a **cooperative-owned marketplace** that solves the exploitation problem in the gig economy:
 
-### Web Development
+| **Traditional Gig Platforms** | **Cooperative Gig Platform** |
+|-------------------------------|------------------------------|
+| 20-30% commission | **0% commission** |
+| Workers exploited | **85% direct earnings** |
+| No worker welfare | **8% welfare fund** |
+| Corporate profit-driven | **Community-owned** |
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
+### 🛠️ **Technical Highlights**
 
-### Database & Tools
+### 📊 **Live Demo Credentials**
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+| Role | Email | Password |
+|------|-------|----------|
+| 👤 Customer | `customer@example.com` | `Password@123` |
+| 👷 Worker | `rahul.plumber@example.com` | `Password@123` |
+| ⚙️ Admin | `admin@sih.gov.in` | `Admin@123` |
 
 ---
 
-## 🚀 Projects
+## 💻 **Tech Stack Mastery**
 
-### 🏎️ C++ Car Game
+<div align="center">
 
-A console-based car racing game developed in C++ with gameplay controls,
-scoring functionality, and native Windows API integration.
+### 🎯 **Core Languages**
+![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Tech:** `C++` · `Windows API`
+### ⚡ **Frameworks & Libraries**
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.3.4-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.110+-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6.x-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 
----
+### 🗄️ **Database & DevOps**
+![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24.x-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-### 🎓 UniPortal
-
-A modern student management system for managing student profiles,
-academic records, courses, and university-related data.
-
-**Tech:** `JavaScript` · `MySQL` · `Full-Stack`
-
----
-
-### 🏁 CyberTorque-2D
-
-A 2D arcade racing game built in C++ using native Windows APIs,
-focused on gameplay mechanics, rendering, and interactive controls.
-
-**Tech:** `C++` · `Windows API` · `Game Development`
+</div>
 
 ---
 
-### 💼 Personal Portfolio
+## 📂 **Project Portfolio**
 
-A personal developer portfolio showcasing my skills, projects,
-and experience through a modern responsive web interface.
-
-**Tech:** `HTML` · `CSS` · `JavaScript` · `Web Development`
-
----
-
-## 🔐 Cybersecurity & Cloud — In Progress
-
-I'm actively building toward cybersecurity and cloud development through
-hands-on learning and practical projects.
-
-- [ ] Build and publish my first substantial cybersecurity project
-- [ ] Deploy a project using a cloud platform
-- [ ] Complete a cybersecurity or cloud certification/course
-- [ ] Build practical security-focused tools and experiments
-
-I'm keeping this section honest — progress gets checked off as I actually complete each goal.
+| Project | Tech Stack | Key Achievement | Live Demo |
+|---------|------------|-----------------|-----------|
+| **[Cooperative Gig Platform](https://github.com/injmam089/cooperative-gig-platform)** | Spring Boot, Flutter, Python AI, MySQL | SIH 2026, 280+ workers, AI forecasting | [Live](https://cooperative-gig-platform.onrender.com) |
+| **UniPortal** | JavaScript, MySQL, Full-stack | Student management system | - |
+| **C++ Car Game** | C++, Windows API | Console-based racing game | - |
+| **CyberTorque-2D** | C++, Windows API, Game Dev | 2D arcade racing game | - |
+| **Personal Portfolio** | HTML, CSS, JavaScript | Modern responsive design | [Live](https://injmam089.github.io) |
 
 ---
 
-## 📊 GitHub Activity
+## 🎯 **2026 Goals & Progress**
 
-I'm focusing on building real projects, improving my code, and contributing
-consistently rather than chasing artificial commit numbers.
-
-My GitHub activity will grow naturally as I publish projects, improve existing
-repositories, and continue learning.
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/injmam089" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="https://www.instagram.com/injmam_089" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/injmam089" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="mailto:injam55@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</p>
+| Goal | Status | Timeline |
+|------|--------|----------|
+| Build production-grade full-stack app | ✅ **COMPLETED** | Jan 2026 |
+| Deploy project on cloud platform | ✅ **COMPLETED** | Feb 2026 |
+| Integrate AI/ML into real-world app | ✅ **COMPLETED** | Mar 2026 |
+| Complete cybersecurity certification | 🔄 **IN PROGRESS** | Q2 2026 |
+| Build security-focused tools | 🔄 **IN PROGRESS** | Q3 2026 |
 
 ---
 
-<p align="center">
-  <i>🚀 Code. Learn. Build. Repeat.</i>
-</p>
+## 📊 **GitHub Analytics**
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=injmam089&show_icons=true&count_private=true&hide_border=true&title_color=00B4D8&icon_color=00B4D8&text_color=c9d1d9&bg_color=0d1117)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=injmam089&layout=compact&hide_border=true&title_color=00B4D8&text_color=c9d1d9&bg_color=0d1117)
+
+</div>
+
+---
+
+## 🔗 **Connect With Me**
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/injmmam089)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/injmam089)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:injmam553@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-0a7e3f?style=for-the-badge&logo=vercel&logoColor=white)](https://injmam089.github.io)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 *"Code. Learn. Build. Repeat."*
+
+**⬇️ Check out my pinned repositories below ⬇️**
+
+</div>
