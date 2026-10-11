@@ -55,13 +55,16 @@ Java · Spring Boot · React · Next.js · REST APIs · Databases · ORM · Depl
 
 ---
 
+
 ## 💼 Skills & Technologies
 
-### 💻 Programming Languages
+### 💻 Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,dart,html,css" />
 </p>
+
+---
 
 ### 🌐 Full-Stack Development
 
@@ -69,7 +72,9 @@ Java · Spring Boot · React · Next.js · REST APIs · Databases · ORM · Depl
 <img src="https://skillicons.dev/icons?i=spring,react,nextjs,fastapi" />
 </p>
 
-**Technologies:** Spring Boot · Spring Security · REST APIs · Hibernate · JPA · FastAPI
+**Spring Boot** · **Spring Security** · **REST APIs** · **Hibernate** · **JPA**
+
+---
 
 ### 🔐 Cybersecurity
 
@@ -77,21 +82,31 @@ Java · Spring Boot · React · Next.js · REST APIs · Databases · ORM · Depl
 <img src="https://skillicons.dev/icons?i=linux,kali" />
 </p>
 
-**Network Security:** Nmap · Network Reconnaissance · Port Scanning · TCP/IP · UDP · Service Enumeration · Attack Surface Assessment
+**Network Security** · **Nmap** · **Reconnaissance** · **Port Scanning** · **TCP/IP** · **UDP** · **Service Enumeration** · **Attack Surface Assessment**
 
-**Application Security:** Web Security · API Security · JWT · Authentication · Authorization · Password Security
+**Web Security** · **API Security** · **JWT** · **Authentication** · **Authorization** · **Password Security**
+
+---
 
 ### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" />
 </p>
 
-**Technologies:** MySQL · PostgreSQL · Prisma · Hibernate · JPA
+**MySQL** · **PostgreSQL** · **Prisma** · **Hibernate** · **JPA**
+
+---
 
 ### 🤖 AI / Machine Learning
 
-Python · FastAPI · Scikit-learn · Pandas · NumPy
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Scikit-learn** · **Pandas** · **NumPy** · **FastAPI** · **Applied AI/ML**
+
+---
 
 ### ⚙️ Tools & DevOps
 
@@ -99,8 +114,7 @@ Python · FastAPI · Scikit-learn · Pandas · NumPy
 <img src="https://skillicons.dev/icons?i=git,github,docker,maven,vercel" />
 </p>
 
-Git · GitHub · Docker · Maven · VS Code · Vercel · Render
-
+**Git** · **GitHub** · **Docker** · **Maven** · **VS Code** · **Vercel** · **Render**
 ---
 
 # 🚀 Projects
