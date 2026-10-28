@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 300">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop stop-color="#63f1df"/><stop offset="1" stop-color="#ff7657"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1400" height="300" rx="28" fill="#081b21" stroke="#23484f"/>
+<path d="M100 145H1300" stroke="#284b51" stroke-width="5" stroke-dasharray="7 14"/>
+<path d="M100 145H1300" stroke="url(#g)" stroke-width="2" stroke-dasharray="18 22">
+<animate attributeName="stroke-dashoffset" from="0" to="-120" dur="3s" repeatCount="indefinite"/>
+</path>
+<g font-family="Inter,Arial,sans-serif" text-anchor="middle">
+
+<g>
+<circle cx="100" cy="145" r="34" fill="#0d2b32" stroke="#63f1df" stroke-width="3" filter="url(#glow)">
+<animate attributeName="r" values="32;38;32" dur="1.8s" repeatCount="indefinite"/>
+</circle>
+<text x="100" y="151" font-size="18" font-weight="800" fill="#63f1df">01</text>
+<text x="100" y="205" font-size="17" font-weight="700" fill="#effbf8">NETWORK</text>
+<text x="100" y="228" font-size="12" fill="#8eafad">Nmap • TCP/IP</text>
+</g>
+<g>
+<circle cx="340" cy="145" r="34" fill="#0d2b32" stroke="#63f1df" stroke-width="3" filter="url(#glow)">
+<animate attributeName="r" values="32;38;32" dur="1.95s" repeatCount="indefinite"/>
+</circle>
+<text x="340" y="151" font-size="18" font-weight="800" fill="#63f1df">02</text>
+<text x="340" y="205" font-size="17" font-weight="700" fill="#effbf8">LINUX</text>
+<text x="340" y="228" font-size="12" fill="#8eafad">CLI • Auditing</text>
+</g>
+<g>
+<circle cx="580" cy="145" r="34" fill="#0d2b32" stroke="#63f1df" stroke-width="3" filter="url(#glow)">
+<animate attributeName="r" values="32;38;32" dur="2.1s" repeatCount="indefinite"/>
+</circle>
+<text x="580" y="151" font-size="18" font-weight="800" fill="#63f1df">03</text>
+<text x="580" y="205" font-size="17" font-weight="700" fill="#effbf8">RECON</text>
+<text x="580" y="228" font-size="12" fill="#8eafad">Discovery • OSINT</text>
+</g>
+<g>
+<circle cx="820" cy="145" r="34" fill="#0d2b32" stroke="#63f1df" stroke-width="3" filter="url(#glow)">
+<animate attributeName="r" values="32;38;32" dur="2.25s" repeatCount="indefinite"/>
+</circle>
+<text x="820" y="151" font-size="18" font-weight="800" fill="#63f1df">04</text>
+<text x="820" y="205" font-size="17" font-weight="700" fill="#effbf8">WEB</text>
+<text x="820" y="228" font-size="12" fill="#8eafad">Application Security</text>
+</g>
+<g>
+<circle cx="1060" cy="145" r="34" fill="#0d2b32" stroke="#63f1df" stroke-width="3" filter="url(#glow)">
+<animate attributeName="r" values="32;38;32" dur="2.4s" repeatCount="indefinite"/>
+</circle>
+<text x="1060" y="151" font-size="18" font-weight="800" fill="#63f1df">05</text>
+<text x="1060" y="205" font-size="17" font-weight="700" fill="#effbf8">CLOUD</text>
+<text x="1060" y="228" font-size="12" fill="#8eafad">DevSecOps</text>
+</g>
+<g>
+<circle cx="1300" cy="145" r="34" fill="#0d2b32" stroke="#63f1df" stroke-width="3" filter="url(#glow)">
+<animate attributeName="r" values="32;38;32" dur="2.55s" repeatCount="indefinite"/>
+</circle>
+<text x="1300" y="151" font-size="18" font-weight="800" fill="#63f1df">06</text>
+<text x="1300" y="205" font-size="17" font-weight="700" fill="#effbf8">ENGINEER</text>
+<text x="1300" y="228" font-size="12" fill="#8eafad">Build • Secure</text>
+</g>
+</g></svg>
