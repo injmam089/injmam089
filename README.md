@@ -1,270 +1,227 @@
 <div align="center">
 
-# 🚀 INJMAM ANSARI
+<img src="assets/hero.svg" alt="Injmam — Cybersecurity, Full-Stack and AI" width="100%"/>
 
-### BCA Student · Cybersecurity Enthusiast · Full-Stack Web Developer
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+Secure+%26+Practical+Software;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;Full-Stack+Web+Development;Cybersecurity+%7C+Network+Security+%7C+Secure+APIs" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=63F1DF&center=true&vCenter=true&width=800&lines=Cybersecurity+Intern+%7C+Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+Python+%7C+AI;Network+Security+%7C+Linux+%7C+Cloud;Building+real-world+systems+%F0%9F%94%90" alt="Typing animation"/>
 
-<br/>
+<br>
 
-[![GitHub followers](https://img.shields.io/github/followers/injmam089?style=for-the-badge&logo=github)](https://github.com/injmam089)
-[![GitHub stars](https://img.shields.io/github/stars/injmam089?style=for-the-badge&logo=github)](https://github.com/injmam089)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://injmam089.github.io)
+<a href="https://github.com/injmam089"><img src="https://img.shields.io/badge/GitHub-injmam089-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/injmam089?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0f766e?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=injmam089&style=for-the-badge&color=0f766e&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-BCA student at **Integral University, Lucknow**, focused on **Cybersecurity and Full-Stack Development**.
+I'm **Injmam**, a BCA student and cybersecurity intern focused on building practical software and developing hands-on security skills.
 
-I build practical applications with a focus on secure backend development, APIs, databases, networking, and modern web technologies.
+My interests sit at the intersection of:
 
-- 🔐 Cybersecurity & Network Security
-- 💻 Full-Stack Web Development
-- ☕ Java & Spring Boot
-- 🐍 Python & Security Tools
-- ⚛️ React & Next.js
-- 🚀 Practical Project-Based Learning
+**🔐 Cybersecurity · 💻 Full-Stack Development · 🤖 AI · ☁️ Cloud**
 
----
+```text
+LEARN → BUILD → TEST → BREAK → DEBUG → SECURE → SHIP
+```
 
-## 🛠️ My Development Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Cybersecurity
-
-Network Security · Reconnaissance · Port Scanning · Web Security · API Security · Authentication · Secure Development
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 Full-Stack
-
-Java · Spring Boot · React · Next.js · REST APIs · Databases · ORM · Deployment
-
-</td>
-</tr>
-</table>
+I prefer practical learning: build something, understand how it works, test its weaknesses, and improve it.
 
 ---
 
+## 🖥️ Terminal
 
-## 💼 Skills & Technologies
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,dart,html,css" />
+<p align="center">
+<img src="assets/terminal.svg" width="100%" alt="Animated terminal"/>
 </p>
 
 ---
 
-### 🌐 Full-Stack Development
+## 🔐 Cybersecurity Journey
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,nextjs,fastapi" />
+<p align="center">
+<img src="assets/journey.svg" width="100%" alt="Animated cybersecurity journey"/>
 </p>
 
-**Spring Boot** · **Spring Security** · **REST APIs** · **Hibernate** · **JPA**
+### 🧪 Hands-on Internship Track
+
+| Week | Focus | Work |
+|:---:|---|---|
+| `01` | 🌐 **Network Reconnaissance** | Nmap host discovery & network reconnaissance |
+| `02` | 🔎 **Port Auditing** | TCP/UDP port audit & attack-surface assessment |
+| `03` | 🐧 **Linux System Auditing** | Linux security and configuration auditing |
 
 ---
 
-### 🔐 Cybersecurity
+## 🚀 Project Lab
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,kali" />
+<p align="center">
+<img src="assets/projects.svg" width="100%" alt="Animated project lab"/>
 </p>
 
-**Network Security** · **Nmap** · **Reconnaissance** · **Port Scanning** · **TCP/IP** · **UDP** · **Service Enumeration** · **Attack Surface Assessment**
+### 🏥 HAMS — Hospital Appointment Management System
 
-**Web Security** · **API Security** · **JWT** · **Authentication** · **Authorization** · **Password Security**
+Production-style healthcare platform built around secure appointment and clinical workflows.
 
----
+`Spring Boot` `Java 17` `PostgreSQL` `JWT` `BCrypt` `Flyway` `Docker`
 
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma" />
-</p>
-
-**MySQL** · **PostgreSQL** · **Prisma** · **Hibernate** · **JPA**
+**Core:** Authentication • RBAC • Booking Engine • State Machine • Consultation • Prescriptions • Audit Logs
 
 ---
 
-### 🤖 AI / Machine Learning
+### 🏔️ LANDSAFE — IoT Landslide Early Warning System
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+Monitoring platform with automated geotechnical risk calculation and secure REST APIs.
 
-**Scikit-learn** · **Pandas** · **NumPy** · **FastAPI** · **Applied AI/ML**
+`Spring Boot` `PostgreSQL` `JWT` `BCrypt` `JavaScript`
 
----
-
-### ⚙️ Tools & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,maven,vercel" />
-</p>
-
-**Git** · **GitHub** · **Docker** · **Maven** · **VS Code** · **Vercel** · **Render**
----
-
-# 🚀 Projects
-
-### 🏆 Cooperative Gig Services Platform
-**SIH 2026 · PS 26089** — Secure cooperative marketplace for customers, workers and service providers.  
-`Java` `Spring Boot` `Security` `MySQL` `Flutter` `FastAPI` `AI/ML`
-
-🔗 [Source Code](https://github.com/injmam089/cooperative-gig-platform)
+**Core:** Monitoring • Risk Engine • Security • Database • API/Mock Modes
 
 ---
 
-### 🌋 LANDSAFE
-IoT-based landslide monitoring and early-warning platform with risk assessment and secure real-time communication.  
-`Spring Boot` `React` `PostgreSQL` `JWT` `WebSocket`
+### 🛡️ Password Strength & Security Analyzer
 
-🔗 [Source Code](https://github.com/injmam089/vishwakarma-2026)
+Cybersecurity tool that evaluates password strength, detects common passwords and provides stronger-password guidance.
 
----
-
-### 🍽️ SAVOR
-Modern full-stack restaurant platform built with Next.js and PostgreSQL.  
-`Next.js` `React` `TypeScript` `PostgreSQL` `Prisma`
-
-🔗 [Source Code](https://github.com/injmam089/savor)
-
----
-
-### 🔑 Password Strength & Security Analyzer
-Security tool for password analysis, common-password detection and stronger password generation.  
 `Python` `Tkinter` `HTML` `CSS` `JavaScript`
 
----
-
-### 🎣 Phishing Detection Tool
-Web-based tool for analyzing URLs and identifying potential phishing indicators and security risks.  
-`Python` `Flask` `HTML` `CSS` `JavaScript`
+🌐 **Live Web Edition:** https://password-strength-security-analyzer-zeta.vercel.app/
 
 ---
 
-### 🌐 Network Port Scanner & Vulnerability Reporter
-Cybersecurity project for port scanning, service identification and basic network security assessment.  
-`Python` `Networking` `Security Analysis`
+### ♻️ Smart Waste Classifier
+
+AI-powered PWA for waste classification and disposal guidance.
+
+`JavaScript` `Teachable Machine` `PWA` `LocalStorage`
+
+Repository: https://github.com/injmam089/smart-waste-classifier
 
 ---
 
-### 🎓 UniPortal
-University portal application for managing and presenting academic information through a centralized interface.  
-`JavaScript` `HTML` `CSS` `MySQL`
+### 🤝 Cooperative Gig Services Platform — SIH 26089
 
-🔗 [Source Code](https://github.com/injmam089/UniPortal)
+Cooperative-owned service marketplace connecting customers, cooperative organizations and verified workers.
 
----
+```text
+CUSTOMER
+   ↓
+SERVICE DISCOVERY
+   ↓
+SMART WORKER MATCHING
+   ↓
+BOOKING → NOTIFICATION → LOCATION
+   ↓
+PAYMENT → COMPLETION → RATING
+   ↓
+AI DEMAND FORECASTING
+```
 
-### 🎮 CyberTorque-2D
-2D graphics/game project developed using native Windows technologies.  
-`C++` `Win32 API` `GDI+`
-
-🔗 [Source Code](https://github.com/injmam089/CyberTorque-2D)
-
----
-
-## 🔐 Cybersecurity Internship
-
-### GetIntern.in — Practical Cybersecurity Track
-
-Hands-on work covering:
-
-**Week 1:** Network reconnaissance · Host discovery · Nmap · Service enumeration
-
-**Week 2:** TCP/UDP port auditing · Service fingerprinting · Attack surface assessment · Risk analysis
-
-**Tools:** `Nmap` `TCP/IP` `UDP` `Windows` `Network Security`
+`Spring Boot` `MySQL` `FastAPI` `Python` `Scikit-Learn` `Docker`
 
 ---
 
-## 🎯 Current Focus
+### 🦯 SAHAYAK — Smart Assistive Stick
 
-- 🔐 Cybersecurity & Network Security
-- 🌐 Web & API Security
-- 🔎 Network Reconnaissance
-- ☕ Java & Spring Boot
-- ⚛️ React & Next.js
-- 🐍 Python Security Tools
-- 🚀 Secure Full-Stack Development
+Technology-assisted project focused on improving mobility and safety.
+
+Repository: https://github.com/injmam089/SAHAYAK-Smart-Assistive-Stick
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ Technology Arsenal
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,spring,nodejs,react,mysql,postgres,mongodb,docker,git,github,linux,vscode,postman,vercel&perline=10"/>
+</p>
+
+### 🔐 Security
+`Nmap` · `Network Recon` · `Port Auditing` · `Linux Auditing` · `JWT` · `BCrypt` · `RBAC`
+
+### ☕ Backend
+`Java` · `Spring Boot` · `REST APIs` · `PostgreSQL` · `MySQL` · `MongoDB`
+
+### 🤖 AI
+`Python` · `FastAPI` · `Scikit-Learn` · `Random Forest` · `Teachable Machine`
+
+### ☁️ Tools
+`Git` · `GitHub` · `Docker` · `Linux` · `VS Code` · `Postman` · `Vercel`
+
+---
+
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=injmam089&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=injmam089&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=injmam089&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=injmam089&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=injmam089&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🐍 Contribution Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=injmam089&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/injmam089/injmam089/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 
 </div>
 
 ---
 
-## 🎓 Education & Highlights
+# 🎯 2026 Mission
 
-- 🎓 **Bachelor of Computer Applications (BCA)**
-- 🏫 **Integral University, Lucknow**
-- 🔐 Cybersecurity & Network Security
-- 💻 Full-Stack Development
-- 🏆 Smart India Hackathon Project Experience
-- 🧪 Practical Cybersecurity Internship
-- 🚀 Real-World Project Development
+```text
+┌─────────────────────────────────────────────────────────┐
+│  🔐 CYBERSECURITY                                       │
+│     Networking • Linux • Web Security • Cloud          │
+│                                                         │
+│  💻 SOFTWARE ENGINEERING                                │
+│     Java • Spring Boot • APIs • Databases              │
+│                                                         │
+│  🤖 AI                                                   │
+│     Python • ML • AI-powered applications              │
+│                                                         │
+│  🚀 OPEN SOURCE                                         │
+│     Build • Contribute • Learn                          │
+└─────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 🤝 Connect With Me
+## 🧠 Engineering Philosophy
+
+> **Don't just learn technology. Build with it.**
+
+**Understand → Build → Break → Secure → Improve**
+
+---
+
+## 🌐 Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/injmam089">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/injmam089">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:injmam553@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://injmam089.github.io">
-<img src="https://img.shields.io/badge/Portfolio-Visit-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+<a href="https://github.com/injmam089"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💡 "Code. Learn. Build. Secure."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071217,50:0f766e,100:ff7657&height=140&section=footer"/>
 
-⭐ Feel free to explore my repositories and connect with me.
+### 🔐 BUILD • LEARN • SECURE • REPEAT
+
+⭐ Thanks for visiting my profile!
 
 </div>
