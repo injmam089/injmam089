@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 430">
+<defs>
+<linearGradient id="c" x1="0" x2="1"><stop stop-color="#63f1df"/><stop offset="1" stop-color="#2ab9ff"/></linearGradient>
+</defs>
+<rect width="1400" height="430" rx="28" fill="#081b21" stroke="#23484f"/>
+<g font-family="Inter,Arial,sans-serif">
+<text x="55" y="60" font-size="27" font-weight="800" fill="#effbf8">PROJECT LAB</text>
+<text x="55" y="88" font-size="14" fill="#8eafad">Real systems • practical security • continuous learning</text>
+</g>
+
+<g transform="translate(55 120)">
+<rect width="390" height="130" rx="18" fill="#0d2930" stroke="#2a555c"/>
+<circle cx="38" cy="38" r="18" fill="#0a3b40" stroke="#63f1df"/>
+<text x="38" y="44" text-anchor="middle" font-family="Arial" font-size="17" fill="#63f1df">H</text>
+<text x="70" y="35" font-family="Inter,Arial" font-size="19" font-weight="800" fill="#effbf8">HAMS</text>
+<text x="70" y="60" font-family="Inter,Arial" font-size="12" fill="#8eafad">Hospital appointment &amp;amp; clinical platform</text>
+<text x="25" y="101" font-family="monospace" font-size="11" fill="#63f1df">SPRING BOOT • POSTGRES • JWT</text>
+<rect x="270" y="88" width="90" height="4" rx="2" fill="url(#c)">
+<animate attributeName="width" values="55;90;55" dur="2.4s" repeatCount="indefinite"/>
+</rect>
+</g>
+<g transform="translate(505 120)">
+<rect width="390" height="130" rx="18" fill="#0d2930" stroke="#2a555c"/>
+<circle cx="38" cy="38" r="18" fill="#0a3b40" stroke="#63f1df"/>
+<text x="38" y="44" text-anchor="middle" font-family="Arial" font-size="17" fill="#63f1df">L</text>
+<text x="70" y="35" font-family="Inter,Arial" font-size="19" font-weight="800" fill="#effbf8">LANDSAFE</text>
+<text x="70" y="60" font-family="Inter,Arial" font-size="12" fill="#8eafad">IoT landslide monitoring &amp; risk engine</text>
+<text x="25" y="101" font-family="monospace" font-size="11" fill="#63f1df">SPRING BOOT • SECURITY • DB</text>
+<rect x="270" y="88" width="90" height="4" rx="2" fill="url(#c)">
+<animate attributeName="width" values="55;90;55" dur="2.4s" repeatCount="indefinite"/>
+</rect>
+</g>
+<g transform="translate(955 120)">
+<rect width="390" height="130" rx="18" fill="#0d2930" stroke="#2a555c"/>
+<circle cx="38" cy="38" r="18" fill="#0a3b40" stroke="#63f1df"/>
+<text x="38" y="44" text-anchor="middle" font-family="Arial" font-size="17" fill="#63f1df">S</text>
+<text x="70" y="35" font-family="Inter,Arial" font-size="19" font-weight="800" fill="#effbf8">SECURITY LAB</text>
+<text x="70" y="60" font-family="Inter,Arial" font-size="12" fill="#8eafad">Password analysis &amp; auditing tools</text>
+<text x="25" y="101" font-family="monospace" font-size="11" fill="#63f1df">PYTHON • JS • NMAP</text>
+<rect x="270" y="88" width="90" height="4" rx="2" fill="url(#c)">
+<animate attributeName="width" values="55;90;55" dur="2.4s" repeatCount="indefinite"/>
+</rect>
+</g>
+<g transform="translate(55 275)">
+<rect width="390" height="130" rx="18" fill="#0d2930" stroke="#2a555c"/>
+<circle cx="38" cy="38" r="18" fill="#0a3b40" stroke="#63f1df"/>
+<text x="38" y="44" text-anchor="middle" font-family="Arial" font-size="17" fill="#63f1df">W</text>
+<text x="70" y="35" font-family="Inter,Arial" font-size="19" font-weight="800" fill="#effbf8">SMART WASTE</text>
+<text x="70" y="60" font-family="Inter,Arial" font-size="12" fill="#8eafad">AI waste classification PWA</text>
+<text x="25" y="101" font-family="monospace" font-size="11" fill="#63f1df">JS • AI • PWA</text>
+<rect x="270" y="88" width="90" height="4" rx="2" fill="url(#c)">
+<animate attributeName="width" values="55;90;55" dur="2.4s" repeatCount="indefinite"/>
+</rect>
+</g>
+<g transform="translate(505 275)">
+<rect width="390" height="130" rx="18" fill="#0d2930" stroke="#2a555c"/>
+<circle cx="38" cy="38" r="18" fill="#0a3b40" stroke="#63f1df"/>
+<text x="38" y="44" text-anchor="middle" font-family="Arial" font-size="17" fill="#63f1df">G</text>
+<text x="70" y="35" font-family="Inter,Arial" font-size="19" font-weight="800" fill="#effbf8">GIG PLATFORM</text>
+<text x="70" y="60" font-family="Inter,Arial" font-size="12" fill="#8eafad">Cooperative service marketplace</text>
+<text x="25" y="101" font-family="monospace" font-size="11" fill="#63f1df">JAVA • FASTAPI • ML</text>
+<rect x="270" y="88" width="90" height="4" rx="2" fill="url(#c)">
+<animate attributeName="width" values="55;90;55" dur="2.4s" repeatCount="indefinite"/>
+</rect>
+</g>
+<g transform="translate(955 275)">
+<rect width="390" height="130" rx="18" fill="#0d2930" stroke="#2a555c"/>
+<circle cx="38" cy="38" r="18" fill="#0a3b40" stroke="#63f1df"/>
+<text x="38" y="44" text-anchor="middle" font-family="Arial" font-size="17" fill="#63f1df">A</text>
+<text x="70" y="35" font-family="Inter,Arial" font-size="19" font-weight="800" fill="#effbf8">SAHAYAK</text>
+<text x="70" y="60" font-family="Inter,Arial" font-size="12" fill="#8eafad">Smart assistive technology project</text>
+<text x="25" y="101" font-family="monospace" font-size="11" fill="#63f1df">IOT • SOFTWARE • SECURITY</text>
+<rect x="270" y="88" width="90" height="4" rx="2" fill="url(#c)">
+<animate attributeName="width" values="55;90;55" dur="2.4s" repeatCount="indefinite"/>
+</rect>
+</g>
+</svg>

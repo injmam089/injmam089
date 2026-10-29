@@ -4,13 +4,14 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=63F1DF&center=true&vCenter=true&width=800&lines=Cybersecurity+Intern+%7C+Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+Python+%7C+AI;Network+Security+%7C+Linux+%7C+Cloud;Building+real-world+systems+%F0%9F%94%90" alt="Typing animation"/>
+**🔐 CYBERSECURITY INTERN · 💻 FULL-STACK DEVELOPER · 🤖 AI BUILDER**
+
+`Java` · `Spring Boot` · `Python` · `Linux` · `Network Security` · `Cloud`
 
 <br>
 
 <a href="https://github.com/injmam089"><img src="https://img.shields.io/badge/GitHub-injmam089-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/injmam089?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0f766e?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=injmam089&style=for-the-badge&color=0f766e&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -48,11 +49,26 @@ I prefer practical learning: build something, understand how it works, test its 
 
 ### 🧪 Hands-on Internship Track
 
-| Week | Focus | Work |
+| Week | Security Area | Practical Work | Status |
+|:---:|---|---|:---:|
+| `01` | 🌐 **Network Reconnaissance** | Nmap host discovery & network reconnaissance | ✅ |
+| `02` | 🔎 **Port Auditing** | TCP/UDP port audit & attack-surface assessment | ✅ |
+| `03` | 🐧 **Linux System Auditing** | Linux security and configuration auditing | ✅ |
+| `04` | 🛡️ **Linux System Hardening** | Bash hardening, file permissions & UFW configuration | ✅ |
+| `05` | ⏳ **Coming Next** | Next practical security module | ⏳ |
+
+### 🛡️ Security Lab
+
+Hands-on security work completed during my practical cybersecurity track:
+
+| Week | Repository | Focus |
 |:---:|---|---|
-| `01` | 🌐 **Network Reconnaissance** | Nmap host discovery & network reconnaissance |
-| `02` | 🔎 **Port Auditing** | TCP/UDP port audit & attack-surface assessment |
-| `03` | 🐧 **Linux System Auditing** | Linux security and configuration auditing |
+| `01` | [Network Recon](https://github.com/injmam089/week-1-network-recon) | Nmap host discovery & local network reconnaissance |
+| `02` | [Port Auditing](https://github.com/injmam089/week-2-port-auditing) | TCP/UDP port auditing & attack-surface assessment |
+| `03` | [Linux Auditing](https://github.com/injmam089/week-3-linux-system-auditing) | Linux system and security configuration auditing |
+| `04` | [Linux Hardening](https://github.com/injmam089/week-4-linux-hardening) | File permissions, UFW rules & SSH validation |
+
+> **Focus:** learn the security concept, perform it hands-on, document the evidence, and keep the work reproducible.
 
 ---
 
@@ -150,15 +166,29 @@ Repository: https://github.com/injmam089/SAHAYAK-Smart-Assistive-Stick
 ### ☁️ Tools
 `Git` · `GitHub` · `Docker` · `Linux` · `VS Code` · `Postman` · `Vercel`
 
+### ⚡ Current Focus
+
+```text
+🛡️ CYBERSECURITY
+   Network Security • Linux • System Hardening • Web Security
+
+☕ BACKEND
+   Java • Spring Boot • REST APIs • Databases
+
+🤖 AI / AUTOMATION
+   Python • FastAPI • Machine Learning
+
+☁️ EXPLORING
+   Cloud • DevSecOps • Secure Deployment
+```
+
 ---
 
 # 📊 GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=injmam089&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=injmam089&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=injmam089&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
 <br><br>
 
@@ -172,7 +202,7 @@ Repository: https://github.com/injmam089/SAHAYAK-Smart-Assistive-Stick
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/injmam089/injmam089/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/injmam089/injmam089/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake"/>
 
 </div>
 
@@ -211,6 +241,12 @@ Repository: https://github.com/injmam089/SAHAYAK-Smart-Assistive-Stick
 <div align="center">
 
 <a href="https://github.com/injmam089"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/injmam089/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:injmam553@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br><br>
+
+**Open to internships, collaborations, security projects and interesting engineering problems.**
 
 </div>
 

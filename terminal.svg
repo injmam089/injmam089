@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 340">
+<rect width="1400" height="340" rx="28" fill="#050f14" stroke="#24484f"/>
+<circle cx="34" cy="30" r="7" fill="#ff7657"/><circle cx="58" cy="30" r="7" fill="#f2c75c"/><circle cx="82" cy="30" r="7" fill="#63f1df"/>
+<text x="115" y="36" font-family="monospace" font-size="14" fill="#6f9493">injmam@security-lab:~</text>
+<g font-family="monospace" font-size="18">
+<text x="40" y="90" fill="#63f1df">$ whoami</text>
+<text x="40" y="120" fill="#e5f6f2">injmam — BCA student / cybersecurity intern / developer</text>
+<text x="40" y="165" fill="#63f1df">$ cat mission.txt</text>
+<text x="40" y="195" fill="#e5f6f2">learn security, build useful systems, ship better software</text>
+<text x="40" y="240" fill="#63f1df">$ status</text>
+<text x="40" y="270" fill="#ff7657">● BUILDING</text>
+<text x="180" y="270" fill="#8eafad">Java • Spring Boot • Python • AI • Cloud</text>
+<text x="40" y="315" fill="#63f1df">$ _</text>
+<rect x="65" y="302" width="9" height="18" fill="#63f1df"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
