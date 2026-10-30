@@ -48,51 +48,54 @@ I prefer practical learning: build something, understand how it works, test its 
 <img src="assets/journey.svg" width="100%" alt="Animated cybersecurity journey"/>
 </p>
 
-### 🧪 Hands-on Internship Track
+## 🛡️ Cybersecurity Experience
 
-| Week | Security Area | Practical Work | Status |
-|:---:|---|---|:---:|
-| `01` | 🌐 **Network Reconnaissance** | Nmap host discovery & network reconnaissance | ✅ |
-| `02` | 🔎 **Port Auditing** | TCP/UDP port audit & attack-surface assessment | ✅ |
-| `03` | 🐧 **Linux System Auditing** | Linux security and configuration auditing | ✅ |
-| `04` | 🛡️ **Linux System Hardening** | Bash hardening, file permissions & UFW configuration | ✅ |
-| `05` | ⏳ **Coming Next** | Next practical security module | ⏳ |
+### GetIntern — Cybersecurity Internship
 
-### 🛡️ Security Lab — Proof of Work
+| Week | Practical Work | Repository |
+|:---:|---|:---:|
+| `01` | Network Reconnaissance | [GitHub](https://github.com/injmam089/week-1-network-recon) |
+| `02` | TCP/UDP Port Auditing | [GitHub](https://github.com/injmam089/week-2-port-auditing) |
+| `03` | Linux System Auditing | [GitHub](https://github.com/injmam089/week-3-linux-system-auditing) |
+| `04` | Linux System Hardening | [GitHub](https://github.com/injmam089/week-4-linux-hardening) |
 
-Hands-on security work completed during my practical cybersecurity track:
+### Yuva Intern — Cybersecurity Internship
 
-| Week | Repository | Focus |
-|:---:|---|---|
-| `01` | [Network Recon](https://github.com/injmam089/week-1-network-recon) | Nmap host discovery & local network reconnaissance |
-| `02` | [Port Auditing](https://github.com/injmam089/week-2-port-auditing) | TCP/UDP port auditing & attack-surface assessment |
-| `03` | [Linux Auditing](https://github.com/injmam089/week-3-linux-system-auditing) | Linux system and security configuration auditing |
-| `04` | [Linux Hardening](https://github.com/injmam089/week-4-linux-hardening) | File permissions, UFW rules & SSH validation |
+| Week | Practical Work | Repository |
+|:---:|---|:---:|
+| `01` | Cyber Threat Landscape Analysis | [GitHub](https://github.com/injmam089/week-1-cyber-threat-landscape-analysis) |
+| `02` | Network Security Configuration | [GitHub](https://github.com/injmam089/week-2-network-security-configuration) |
+| `03` | Incident Response Simulation | [GitHub](https://github.com/injmam089/week-3-incident-response-simulation) |
+| `04` | Security Policy Review | [GitHub](https://github.com/injmam089/week-4-security-policy-review) |
 
-> **Method:** learn the concept → perform it hands-on → document evidence → keep the work reproducible.
+> Practical work and supporting evidence are documented in the individual repositories.
 
 ---
 
 ## 🚀 Selected Projects
 
-> Detailed implementation, architecture, screenshots and documentation live inside each repository.
+| Project | Source Code | Live Demo |
+|---|:---:|:---:|
+| **Password Strength & Security Analyzer** | [GitHub](https://github.com/injmam089/password-strength-security-analyzer-web) | [Open](https://password-strength-security-analyzer-zeta.vercel.app/) |
+| **HAMS — Hospital Appointment Management System** | [GitHub](https://github.com/injmam089/Hospital-Appointment-Management-System) | [Open](https://hospital-appointment-management-sys-three.vercel.app/) |
+| **Cooperative Gig Platform** | [GitHub](https://github.com/injmam089/cooperative-gig-platform) | [Open](https://cooperative-gig-platform.onrender.com/) |
+| **UniPortal** | [GitHub](https://github.com/injmam089/UniPortal) | [Open](https://uni-portal-sand.vercel.app/) |
+| **Smart Waste Classifier** | [GitHub](https://github.com/injmam089/smart-waste-classifier) | [Open](https://smart-waste-classifier-steel.vercel.app/) |
+| **Savor** | [GitHub](https://github.com/injmam089/savor) | [Open](https://savor-lime.vercel.app/) |
+| **Vishwakarma 2026** | [GitHub](https://github.com/injmam089/vishwakarma-2026) | [Open](https://vishwakarma-2026.vercel.app/) |
+| **Mart — E-Commerce Website** | [GitHub](https://github.com/injmam089/Mart-E-Commerce-Website) | — |
+| **SAHAYAK — Smart Assistive Stick** | [GitHub](https://github.com/injmam089/SAHAYAK-Smart-Assistive-Stick) | — |
+| **CyberTorque-2D** | [GitHub](https://github.com/injmam089/CyberTorque-2D) | — |
 
-| Project | Focus | Link |
-|---|---|:---:|
-| 🏥 **HAMS** | Healthcare · Spring Boot · PostgreSQL · Security | [View](https://github.com/injmam089?tab=repositories) |
-| 🏔️ **LANDSAFE** | IoT · Risk Monitoring · Secure REST APIs | [View](https://github.com/injmam089?tab=repositories) |
-| 🛡️ **Password Security Analyzer** | Password Security · Web · Python | [Live](https://password-strength-security-analyzer-zeta.vercel.app/) · [Repo](https://github.com/injmam089/password-strength-security-analyzer-web) |
-| ♻️ **Smart Waste Classifier** | AI · PWA · Teachable Machine | [Repo](https://github.com/injmam089/smart-waste-classifier) |
-| 🦯 **SAHAYAK** | Assistive Technology · IoT | [Repo](https://github.com/injmam089/SAHAYAK-Smart-Assistive-Stick) |
-| 🤝 **Cooperative Gig Platform** | Spring Boot · FastAPI · AI · Docker | [Projects](https://github.com/injmam089?tab=repositories) |
+<sub>— Live demo link not provided yet.</sub>
 
 ## 📌 Build Snapshot
 
 <div align="center">
 
-| 🔐 Security Labs | 🧪 Completed Weeks | 🏗️ Featured Systems | 🛠️ Main Stack |
+| 🔐 Security Repositories | 🧭 Internship Tracks | 🚀 Selected Projects | 🛠️ Main Focus |
 |:---:|:---:|:---:|---|
-| **4** | **4** | **6+** | Java · Spring Boot · Python · Linux |
+| **8** | **2** | **10** | Cybersecurity · Backend · Web |
 
 </div>
 
