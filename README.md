@@ -12,6 +12,7 @@
 
 <a href="https://github.com/injmam089"><img src="https://img.shields.io/badge/GitHub-injmam089-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/injmam089?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-0f766e?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/injmam089/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
@@ -57,7 +58,7 @@ I prefer practical learning: build something, understand how it works, test its 
 | `04` | 🛡️ **Linux System Hardening** | Bash hardening, file permissions & UFW configuration | ✅ |
 | `05` | ⏳ **Coming Next** | Next practical security module | ⏳ |
 
-### 🛡️ Security Lab
+### 🛡️ Security Lab — Proof of Work
 
 Hands-on security work completed during my practical cybersecurity track:
 
@@ -68,83 +69,34 @@ Hands-on security work completed during my practical cybersecurity track:
 | `03` | [Linux Auditing](https://github.com/injmam089/week-3-linux-system-auditing) | Linux system and security configuration auditing |
 | `04` | [Linux Hardening](https://github.com/injmam089/week-4-linux-hardening) | File permissions, UFW rules & SSH validation |
 
-> **Focus:** learn the security concept, perform it hands-on, document the evidence, and keep the work reproducible.
+> **Method:** learn the concept → perform it hands-on → document evidence → keep the work reproducible.
 
 ---
 
-## 🚀 Project Lab
+## 🚀 Selected Projects
 
-<p align="center">
-<img src="assets/projects.svg" width="100%" alt="Animated project lab"/>
-</p>
+> Detailed implementation, architecture, screenshots and documentation live inside each repository.
 
-### 🏥 HAMS — Hospital Appointment Management System
+| Project | Focus | Link |
+|---|---|:---:|
+| 🏥 **HAMS** | Healthcare · Spring Boot · PostgreSQL · Security | [View](https://github.com/injmam089?tab=repositories) |
+| 🏔️ **LANDSAFE** | IoT · Risk Monitoring · Secure REST APIs | [View](https://github.com/injmam089?tab=repositories) |
+| 🛡️ **Password Security Analyzer** | Password Security · Web · Python | [Live](https://password-strength-security-analyzer-zeta.vercel.app/) · [Repo](https://github.com/injmam089/password-strength-security-analyzer-web) |
+| ♻️ **Smart Waste Classifier** | AI · PWA · Teachable Machine | [Repo](https://github.com/injmam089/smart-waste-classifier) |
+| 🦯 **SAHAYAK** | Assistive Technology · IoT | [Repo](https://github.com/injmam089/SAHAYAK-Smart-Assistive-Stick) |
+| 🤝 **Cooperative Gig Platform** | Spring Boot · FastAPI · AI · Docker | [Projects](https://github.com/injmam089?tab=repositories) |
 
-Production-style healthcare platform built around secure appointment and clinical workflows.
+## 📌 Build Snapshot
 
-`Spring Boot` `Java 17` `PostgreSQL` `JWT` `BCrypt` `Flyway` `Docker`
+<div align="center">
 
-**Core:** Authentication • RBAC • Booking Engine • State Machine • Consultation • Prescriptions • Audit Logs
+| 🔐 Security Labs | 🧪 Completed Weeks | 🏗️ Featured Systems | 🛠️ Main Stack |
+|:---:|:---:|:---:|---|
+| **4** | **4** | **6+** | Java · Spring Boot · Python · Linux |
 
----
+</div>
 
-### 🏔️ LANDSAFE — IoT Landslide Early Warning System
-
-Monitoring platform with automated geotechnical risk calculation and secure REST APIs.
-
-`Spring Boot` `PostgreSQL` `JWT` `BCrypt` `JavaScript`
-
-**Core:** Monitoring • Risk Engine • Security • Database • API/Mock Modes
-
----
-
-### 🛡️ Password Strength & Security Analyzer
-
-Cybersecurity tool that evaluates password strength, detects common passwords and provides stronger-password guidance.
-
-`Python` `Tkinter` `HTML` `CSS` `JavaScript`
-
-🌐 **Live Web Edition:** https://password-strength-security-analyzer-zeta.vercel.app/
-
----
-
-### ♻️ Smart Waste Classifier
-
-AI-powered PWA for waste classification and disposal guidance.
-
-`JavaScript` `Teachable Machine` `PWA` `LocalStorage`
-
-Repository: https://github.com/injmam089/smart-waste-classifier
-
----
-
-### 🤝 Cooperative Gig Services Platform — SIH 26089
-
-Cooperative-owned service marketplace connecting customers, cooperative organizations and verified workers.
-
-```text
-CUSTOMER
-   ↓
-SERVICE DISCOVERY
-   ↓
-SMART WORKER MATCHING
-   ↓
-BOOKING → NOTIFICATION → LOCATION
-   ↓
-PAYMENT → COMPLETION → RATING
-   ↓
-AI DEMAND FORECASTING
-```
-
-`Spring Boot` `MySQL` `FastAPI` `Python` `Scikit-Learn` `Docker`
-
----
-
-### 🦯 SAHAYAK — Smart Assistive Stick
-
-Technology-assisted project focused on improving mobility and safety.
-
-Repository: https://github.com/injmam089/SAHAYAK-Smart-Assistive-Stick
+> I value **working proof over a long skill list** — repositories, demos, security exercises and documented implementation details come first.
 
 ---
 
@@ -155,7 +107,7 @@ Repository: https://github.com/injmam089/SAHAYAK-Smart-Assistive-Stick
 </p>
 
 ### 🔐 Security
-`Nmap` · `Network Recon` · `Port Auditing` · `Linux Auditing` · `JWT` · `BCrypt` · `RBAC`
+`Nmap` · `Network Recon` · `Port Auditing` · `Linux Auditing` · `Linux Hardening` · `JWT` · `BCrypt` · `RBAC`
 
 ### ☕ Backend
 `Java` · `Spring Boot` · `REST APIs` · `PostgreSQL` · `MySQL` · `MongoDB`
@@ -192,7 +144,7 @@ Repository: https://github.com/injmam089/SAHAYAK-Smart-Assistive-Stick
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=injmam089&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=injmam089&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
 
