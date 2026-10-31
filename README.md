@@ -18,17 +18,24 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Injmam**, a BCA student and cybersecurity intern focused on building practical software and developing hands-on security skills.
+<div align="center">
 
-My interests sit at the intersection of:
+### `// SYSTEM PHILOSOPHY`
 
-**🔐 Cybersecurity · 💻 Full-Stack Development · 🤖 AI · ☁️ Cloud**
+> **“The deeper I understand a system, the more I see its weaknesses;**  
+> **the more I understand its weaknesses, the better I can protect it.”**
 
-```text
-LEARN → BUILD → TEST → BREAK → DEBUG → SECURE → SHIP
-```
+</div>
 
-I prefer practical learning: build something, understand how it works, test its weaknesses, and improve it.
+I'm **Injmam**, a BCA student and cybersecurity intern exploring the intersection of **Cybersecurity · Full-Stack Development · AI · Cloud**.
+
+I don't learn technology just to use it — **I learn how it works, how it fails, and how to make it stronger.**
+
+<div align="center">
+
+`SECURITY` • `ENGINEERING` • `CURIOSITY` • `CONTINUOUS LEARNING`
+
+</div>
 
 ---
 
@@ -83,7 +90,7 @@ I prefer practical learning: build something, understand how it works, test its 
 | Password Strength & Security Analyzer | [GitHub ↗](https://github.com/injmam089/password-strength-security-analyzer-web) | [Open ↗](https://password-strength-security-analyzer-zeta.vercel.app/) |
 | HAMS — Hospital Appointment Management System | [GitHub ↗](https://github.com/injmam089/Hospital-Appointment-Management-System) | [Open ↗](https://hospital-appointment-management-sys-three.vercel.app/) |
 | Cooperative Gig Platform | [GitHub ↗](https://github.com/injmam089/cooperative-gig-platform) | [Open ↗](https://cooperative-gig-platform.onrender.com/) |
-| UniPortal | [GitHub ↗](https://github.com/injmam089/UniPortal) | [Open ↗](https://uni-portal-sand.vercel.app/) |
+| UniPortal | [GitHub ↗](https://github.com/injmam089/UniPortal) | [Open ↗](https://uniportal-7vas.onrender.com/) |
 | Smart Waste Classifier | [GitHub ↗](https://github.com/injmam089/smart-waste-classifier) | [Open ↗](https://smart-waste-classifier-steel.vercel.app/) |
 | Savor | [GitHub ↗](https://github.com/injmam089/savor) | [Open ↗](https://savor-lime.vercel.app/) |
 | Vishwakarma 2026 | [GitHub ↗](https://github.com/injmam089/vishwakarma-2026) | [Open ↗](https://vishwakarma-2026.vercel.app/) |
