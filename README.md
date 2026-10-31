@@ -96,12 +96,7 @@ I prefer practical learning: build something, understand how it works, test its 
 ## 📊 Live GitHub Pulse
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=injmam089&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" alt="GitHub statistics">
   <img src="https://streak-stats.demolab.com?user=injmam089&hide_border=true&theme=transparent" height="170" alt="GitHub streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=injmam089&theme=github-compact&hide_border=true&area=true" width="96%" alt="GitHub activity graph">
 </p>
 
 ---
