@@ -21,8 +21,10 @@ jobs:
       - name: Publish generated SVG
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          build_dir: dist
-          target_branch: output
+         build_dir: dist
+         target_branch: output
+         author: "${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>"
+         committer: "${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BUILD_DIR: dist
