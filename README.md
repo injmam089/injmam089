@@ -155,4 +155,4 @@ Smart assistive stick built to help people move around safely.<br><br>
 
 ## 📬 Contact
 
-Email [injmam553@gmail.com](mailto:injmam553@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/injmam089/)..
+Email [injmam553@gmail.com](mailto:injmam553@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/injmam089/).
