@@ -144,15 +144,15 @@ A camera-based Progressive Web App that classifies recyclable, organic and e-was
 
 **Cybersecurity**
 
-![Nmap](https://img.shields.io/badge/Nmap-0f766e?style=flat-square)
-![Network Reconnaissance](https://img.shields.io/badge/Network_Reconnaissance-0f766e?style=flat-square)
-![TCP/UDP Auditing](https://img.shields.io/badge/TCP%2FUDP_Auditing-0f766e?style=flat-square)
-![Linux Auditing](https://img.shields.io/badge/Linux_Auditing-0f766e?style=flat-square&logo=linux&logoColor=white)
-![System Hardening](https://img.shields.io/badge/System_Hardening-0f766e?style=flat-square)
-![Web Security](https://img.shields.io/badge/Web_Application_Security-0f766e?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-0f766e?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![BCrypt](https://img.shields.io/badge/BCrypt-0f766e?style=flat-square)
-![RBAC](https://img.shields.io/badge/RBAC-0f766e?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-166534?style=flat-square)
+![Network Reconnaissance](https://img.shields.io/badge/Network_Reconnaissance-166534?style=flat-square)
+![TCP/UDP Auditing](https://img.shields.io/badge/TCP%2FUDP_Auditing-166534?style=flat-square)
+![Linux Auditing](https://img.shields.io/badge/Linux_Auditing-166534?style=flat-square&logo=linux&logoColor=white)
+![System Hardening](https://img.shields.io/badge/System_Hardening-166534?style=flat-square)
+![Web Application Security](https://img.shields.io/badge/Web_Application_Security-166534?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-166534?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-166534?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-166534?style=flat-square)
 
 **Programming languages**
 
@@ -163,26 +163,48 @@ A camera-based Progressive Web App that classifies recyclable, organic and e-was
 ![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-334155?style=flat-square&logo=gnubash&logoColor=white)
 
-**Backend, frontend and databases**
+**Backend & APIs**
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,py,cpp,js,ts,react,nextjs,html,css,flutter,postgres,mysql,mongodb,prisma,docker,git,github,linux,bash,postman&theme=light&perline=7">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,cpp,js,ts,react,nextjs,html,css,flutter,postgres,mysql,mongodb,prisma,docker,git,github,linux,bash,postman&theme=dark&perline=7" alt="Java, Spring Boot, Python, C++, JavaScript, TypeScript, React, Next.js, HTML, CSS, Flutter, PostgreSQL, MySQL, MongoDB, Prisma, Docker, Git, GitHub, Linux, Bash and Postman">
-</picture>
-
-**Additional tools and frameworks**
-
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-166534?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-166534?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-166534?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/FastAPI-166534?style=flat-square&logo=fastapi&logoColor=white)
 ![JPA Hibernate](https://img.shields.io/badge/JPA%2FHibernate-166534?style=flat-square)
-![Maven](https://img.shields.io/badge/Maven-166534?style=flat-square&logo=apachemaven&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-334155?style=flat-square&logo=apachemaven&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-334155?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-334155?style=flat-square&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-334155?style=flat-square&logo=flutter&logoColor=white)
+
+**Databases & tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-334155?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-334155?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-334155?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-334155?style=flat-square&logo=postman&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-7c3aed?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Currently learning**
+
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-92400e?style=flat-square)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-92400e?style=flat-square)
+![Secure Deployment](https://img.shields.io/badge/Secure_Deployment-92400e?style=flat-square)
 
 ## Contribution Activity
 
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/injmam089/injmam089/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/injmam089/injmam089/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/injmam089/injmam089/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity snake animation" width="100%">
-</p>
+</picture>
 
 ## Connect
 
