@@ -14,88 +14,115 @@
 
 ## About
 
-I'm **Injmam Ansari**, a BCA student, cybersecurity intern, and software developer interested in building reliable, secure applications.
+I'm **Injmam Ansari**, a BCA student at Integral University, cybersecurity intern, and full-stack/backend developer.
 
-I enjoy understanding how systems work, exploring how they can fail, and applying that knowledge to build them better.
+I enjoy understanding how systems work, exploring how they can fail, and applying that knowledge to build useful and more secure software.
 
-- 🛡️ **Security:** Network reconnaissance, port auditing, Linux auditing and system hardening
-- ☕ **Development:** Java, Spring Boot, REST APIs and database-backed applications
+- 🛡️ **Security:** Network reconnaissance, TCP/UDP port auditing, Linux system auditing and hardening
+- ☕ **Backend:** Java 17, Spring Boot 3, Spring Security and REST APIs
+- 💻 **Development:** Python, C++, JavaScript, TypeScript, React and Next.js
 - ☁️ **Exploring:** Cloud computing, DevSecOps and secure deployment
-- 🎯 **Current focus:** Strengthening practical security skills and shipping useful software
 
 `Understand → Build → Test → Secure → Improve`
 
-## Cybersecurity Journey
+## Cybersecurity Experience
 
-Hands-on work from my internship tracks. Each repository contains the relevant task documentation and practical evidence.
+### GetIntern.in — Cybersecurity Intern
+<sub>October 2026 – Present · Practical 8-week track</sub>
 
-| Week | GetIntern | Yuva Intern |
+Hands-on work covering local network reconnaissance and host discovery, TCP/UDP port auditing with Nmap, Linux system auditing and system hardening.
+
+| Week | Practical work | Repository |
 |:---:|---|---|
-| 01 | [Network Reconnaissance](https://github.com/injmam089/week-1-network-recon) | [Cyber Threat Landscape Analysis](https://github.com/injmam089/week-1-cyber-threat-landscape-analysis) |
-| 02 | [TCP/UDP Port Auditing](https://github.com/injmam089/week-2-port-auditing) | [Network Security Configuration](https://github.com/injmam089/week-2-network-security-configuration) |
-| 03 | [Linux System Auditing](https://github.com/injmam089/week-3-linux-system-auditing) | [Incident Response Simulation](https://github.com/injmam089/week-3-incident-response-simulation) |
-| 04 | [Linux System Hardening](https://github.com/injmam089/week-4-linux-hardening) | [Security Policy Review](https://github.com/injmam089/week-4-security-policy-review) |
+| 01 | Network reconnaissance & host discovery | [Week 1](https://github.com/injmam089/week-1-network-recon) |
+| 02 | TCP/UDP port auditing | [Week 2](https://github.com/injmam089/week-2-port-auditing) |
+| 03 | Linux system auditing | [Week 3](https://github.com/injmam089/week-3-linux-system-auditing) |
+| 04 | Linux system hardening | [Week 4](https://github.com/injmam089/week-4-linux-hardening) |
 
-## Selected Projects
+### YuvaIntern — Cyber Security Analyst (Online Virtual Intern)
+<sub>04 October 2026 – 04 November 2026</sub>
+
+Virtual internship assignments covering cyber threat landscape analysis, network security configuration, incident response simulation and security policy review.
+
+| Week | Assignment | Repository |
+|:---:|---|---|
+| 01 | Cyber threat landscape analysis | [Week 1](https://github.com/injmam089/week-1-cyber-threat-landscape-analysis) |
+| 02 | Network security configuration | [Week 2](https://github.com/injmam089/week-2-network-security-configuration) |
+| 03 | Incident response simulation | [Week 3](https://github.com/injmam089/week-3-incident-response-simulation) |
+| 04 | Security policy review | [Week 4](https://github.com/injmam089/week-4-security-policy-review) |
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 Password Strength Analyzer
+### 🔐 Password Strength & Security Analyzer
 
-A web tool that evaluates password strength and explains potential weaknesses.
+A browser-based tool that evaluates password strength, detects common weaknesses and provides improvement recommendations.
 
-[Source code](https://github.com/injmam089/password-strength-security-analyzer-web) · [Live demo](https://password-strength-security-analyzer-zeta.vercel.app/)
+**Stack:** HTML · CSS · JavaScript
+
+[Repository](https://github.com/injmam089/password-strength-security-analyzer-web) · [Live demo](https://password-strength-security-analyzer-zeta.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏥 HAMS
+### 🏥 HAMS — Hospital Appointment Management System
 
-Hospital Appointment Management System for managing patient appointments and related workflows.
+A hospital appointment platform with secure authentication, role-based access, appointment workflows, and consultation/prescription management.
 
-[Source code](https://github.com/injmam089/Hospital-Appointment-Management-System) · [Live demo](https://hospital-appointment-management-sys-three.vercel.app/)
+**Stack:** Java 17 · Spring Boot · Spring Security · PostgreSQL · JWT · Docker
+
+[Repository](https://github.com/injmam089/Hospital-Appointment-Management-System) · [Live demo](https://hospital-appointment-management-sys-three.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤝 Cooperative Gig Platform
+### 🤝 Cooperative Gig Services Platform — SIH 26089
 
-A cooperative-oriented digital platform connecting customers, worker communities and service providers.
+A cooperative marketplace connecting customers with verified workers, supporting service booking, worker management and AI-assisted demand forecasting.
 
-[Source code](https://github.com/injmam089/cooperative-gig-platform) · [Live demo](https://cooperative-gig-platform.onrender.com/)
+**Stack:** Java · Spring Boot · MySQL · FastAPI · Flutter · Docker
+
+[Repository](https://github.com/injmam089/cooperative-gig-platform) · [Live demo](https://cooperative-gig-platform.onrender.com/)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎓 UniPortal
+### 🍽️ SAVOR — Restaurant Ordering Platform
 
-A university portal project focused on bringing academic information and student workflows together.
+A full-stack restaurant platform with online ordering, table reservations, authentication, admin management and a responsive user interface.
 
-[Source code](https://github.com/injmam089/UniPortal) · [Live demo](https://uniportal-7vas.onrender.com/)
+**Stack:** Next.js · TypeScript · PostgreSQL · Prisma · NextAuth
+
+[Repository](https://github.com/injmam089/savor) · [Live demo](https://savor-lime.vercel.app/)
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🌍 LANDSAFE — Vishwakarma 2026
+
+An IoT landslide-monitoring prototype with real-time sensor telemetry, automated risk evaluation, device-health monitoring and emergency alerts.
+
+**Stack:** Java · Spring Boot · PostgreSQL · STOMP WebSocket · React · TypeScript · Docker
+
+[Repository](https://github.com/injmam089/vishwakarma-2026) · [Live demo](https://vishwakarma-2026.vercel.app/)
+
+</td>
 <td width="50%" valign="top">
 
 ### ♻️ Smart Waste Classifier
 
-An AI-assisted web application for classifying waste and presenting disposal guidance.
+A camera-based Progressive Web App that classifies recyclable, organic and e-waste, then provides category-specific disposal guidance.
 
-[Source code](https://github.com/injmam089/smart-waste-classifier) · [Live demo](https://smart-waste-classifier-steel.vercel.app/)
+**Stack:** HTML5 · CSS3 · JavaScript · Teachable Machine · PWA
 
-</td>
-<td width="50%" valign="top">
-
-### 🦯 SAHAYAK — Smart Assistive Stick
-
-A smart assistive-stick project designed to support safer mobility.
-
-[Source code](https://github.com/injmam089/SAHAYAK-Smart-Assistive-Stick)
+[Repository](https://github.com/injmam089/smart-waste-classifier) · [Live demo](https://smart-waste-classifier-steel.vercel.app/)
 
 </td>
 </tr>
@@ -104,50 +131,80 @@ A smart assistive-stick project designed to support safer mobility.
 <details>
 <summary><b>More projects</b></summary>
 
-| Project | Repository | Demo |
+| Project | What it is | Links |
 |---|---|---|
-| Savor | [Source](https://github.com/injmam089/savor) | [Live](https://savor-lime.vercel.app/) |
-| Vishwakarma 2026 | [Source](https://github.com/injmam089/vishwakarma-2026) | [Live](https://vishwakarma-2026.vercel.app/) |
-| Mart — E-Commerce Website | [Source](https://github.com/injmam089/Mart-E-Commerce-Website) | — |
-| CyberTorque-2D | [Source](https://github.com/injmam089/CyberTorque-2D) | — |
+| **UniPortal** | Student management portal for academic records, attendance, schedules, results and student workflows. | [Repository](https://github.com/injmam089/UniPortal) · [Live demo](https://uniportal-7vas.onrender.com/) |
+| **SAHAYAK — Smart Assistive Stick** | Assistive technology platform combining an ESP32 device, Flutter mobile app and Spring Boot backend for hazard alerts and caregiver connectivity. | [Repository](https://github.com/injmam089/SAHAYAK-Smart-Assistive-Stick) |
+| **NovaMart — E-Commerce Website** | React storefront with product search, filtering, wishlist, cart, coupons and checkout flows. | [Repository](https://github.com/injmam089/Mart-E-Commerce-Website) |
+| **CyberTorque 2D** | C++ top-down arcade racing game with vehicle physics, AI traffic, drifting, procedural audio and save data. | [Repository](https://github.com/injmam089/CyberTorque-2D) |
 
 </details>
 
 ## Technology
 
-**Security**
+**Cybersecurity**
 
-![Nmap](https://img.shields.io/badge/Nmap-0f766e?style=flat-square)
-![Network Reconnaissance](https://img.shields.io/badge/Network_Reconnaissance-0f766e?style=flat-square)
-![Port Auditing](https://img.shields.io/badge/Port_Auditing-0f766e?style=flat-square)
-![Linux Auditing](https://img.shields.io/badge/Linux_Auditing-0f766e?style=flat-square&logo=linux&logoColor=white)
-![System Hardening](https://img.shields.io/badge/System_Hardening-0f766e?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-0f766e?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![BCrypt](https://img.shields.io/badge/BCrypt-0f766e?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-166534?style=flat-square)
+![Network Reconnaissance](https://img.shields.io/badge/Network_Reconnaissance-166534?style=flat-square)
+![TCP/UDP Auditing](https://img.shields.io/badge/TCP%2FUDP_Auditing-166534?style=flat-square)
+![Linux Auditing](https://img.shields.io/badge/Linux_Auditing-166534?style=flat-square&logo=linux&logoColor=white)
+![System Hardening](https://img.shields.io/badge/System_Hardening-166534?style=flat-square)
+![Web Application Security](https://img.shields.io/badge/Web_Application_Security-166534?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-166534?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-166534?style=flat-square)
+![RBAC](https://img.shields.io/badge/RBAC-166534?style=flat-square)
 
-**Development, databases and tools**
+**Programming languages**
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,py,fastapi,postgres,mysql,mongodb,git,github,docker,linux,postman,vercel&theme=light&perline=7">
-  <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,postgres,mysql,mongodb,git,github,docker,linux,postman,vercel&theme=dark&perline=7" alt="Java, Spring Boot, Python, FastAPI, PostgreSQL, MySQL, MongoDB, Git, GitHub, Docker, Linux, Postman and Vercel">
-</picture>
+![Java](https://img.shields.io/badge/Java-334155?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-334155?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-334155?style=flat-square&logo=gnubash&logoColor=white)
 
-**AI / Machine Learning**
+**Backend & APIs**
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-166534?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-166534?style=flat-square)
+![REST APIs](https://img.shields.io/badge/REST_APIs-166534?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-166534?style=flat-square&logo=fastapi&logoColor=white)
+![JPA Hibernate](https://img.shields.io/badge/JPA%2FHibernate-166534?style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-334155?style=flat-square&logo=apachemaven&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=nextdotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-334155?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-334155?style=flat-square&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-334155?style=flat-square&logo=flutter&logoColor=white)
+
+**Databases & tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-334155?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-334155?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-334155?style=flat-square&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-334155?style=flat-square&logo=postman&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-7c3aed?style=flat-square&logo=scikitlearn&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random_Forest-7c3aed?style=flat-square)
 
 **Currently learning**
 
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-b45309?style=flat-square)
-![DevSecOps](https://img.shields.io/badge/DevSecOps-b45309?style=flat-square)
-![Secure Deployment](https://img.shields.io/badge/Secure_Deployment-b45309?style=flat-square)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-92400e?style=flat-square)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-92400e?style=flat-square)
+![Secure Deployment](https://img.shields.io/badge/Secure_Deployment-92400e?style=flat-square)
 
 ## Contribution Activity
 
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/injmam089/injmam089/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/injmam089/injmam089/output/github-contribution-grid-snake.svg">
   <img src="https://raw.githubusercontent.com/injmam089/injmam089/output/github-contribution-grid-snake.svg" alt="GitHub contribution activity snake animation" width="100%">
-</p>
+</picture>
 
 ## Connect
 
