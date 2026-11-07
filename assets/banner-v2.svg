@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Injmam — Cybersecurity and Software Development</title>
+  <desc id="desc">A minimal dark navy profile banner with emerald accents, a secure systems tagline, and an abstract shield network illustration.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#111c2d"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6ee7b7"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+    <radialGradient id="halo">
+      <stop offset="0" stop-color="#34d399" stop-opacity=".17"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#94a3b8" stroke-opacity=".07" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <circle cx="970" cy="158" r="260" fill="url(#halo)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="23" fill="none" stroke="#334155" stroke-opacity=".75"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="72" y="119" fill="#f8fafc" font-size="64" font-weight="750" letter-spacing="-2">Injmam Ansari</text>
+    <rect x="75" y="143" width="42" height="4" rx="2" fill="url(#accent)"/>
+    <text x="75" y="184" fill="#cbd5e1" font-size="23" font-weight="550">Cybersecurity Intern · Java Backend Developer</text>
+    <text x="75" y="222" fill="#94a3b8" font-size="18">Learning to secure systems and build software that solves real problems.</text>
+    <g font-size="13" font-weight="650" letter-spacing="1.1">
+      <rect x="75" y="250" width="116" height="34" rx="17" fill="#064e3b" fill-opacity=".48" stroke="#34d399" stroke-opacity=".55"/>
+      <text x="133" y="272" text-anchor="middle" fill="#a7f3d0">SECURITY</text>
+      <rect x="202" y="250" width="116" height="34" rx="17" fill="#1e293b" stroke="#64748b" stroke-opacity=".6"/>
+      <text x="260" y="272" text-anchor="middle" fill="#cbd5e1">BACKEND</text>
+      <rect x="329" y="250" width="116" height="34" rx="17" fill="#1e293b" stroke="#64748b" stroke-opacity=".6"/>
+      <text x="387" y="272" text-anchor="middle" fill="#cbd5e1">CLOUD</text>
+    </g>
+  </g>
+
+  <g transform="translate(875 50)">
+    <circle cx="120" cy="110" r="116" fill="none" stroke="#334155" stroke-width="1.5"/>
+    <circle cx="120" cy="110" r="88" fill="none" stroke="#475569" stroke-opacity=".65" stroke-dasharray="3 9"/>
+    <path d="M120 25L190 52V111C190 164 158 199 120 218C82 199 50 164 50 111V52Z" fill="#0f2b25" stroke="url(#accent)" stroke-width="3"/>
+    <path d="M91 111L111 131L151 87" fill="none" stroke="#a7f3d0" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <g fill="#6ee7b7" stroke="#0b1220" stroke-width="5">
+      <circle cx="15" cy="62" r="9"/>
+      <circle cx="224" cy="72" r="9"/>
+      <circle cx="29" cy="183" r="9"/>
+      <circle cx="211" cy="181" r="9"/>
+    </g>
+    <g fill="none" stroke="#34d399" stroke-opacity=".65" stroke-width="2">
+      <path d="M15 62L57 76M224 72L183 82M29 183L62 158M211 181L178 158"/>
+    </g>
+  </g>
+  <text x="1120" y="294" text-anchor="end" fill="#64748b" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12">LEARN · BUILD · SECURE</text>
+</svg>
