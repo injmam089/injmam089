@@ -144,7 +144,7 @@ A camera-based Progressive Web App that classifies recyclable, organic and e-was
 
 **Cybersecurity**
 
-![Nmap](https://img.shields.io/badge/Nmap-166534?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-166534?style=flat-square&logo=linux&logoColor=white)
 ![Network Reconnaissance](https://img.shields.io/badge/Network_Reconnaissance-166534?style=flat-square)
 ![TCP/UDP Auditing](https://img.shields.io/badge/TCP%2FUDP_Auditing-166534?style=flat-square)
 ![Linux Auditing](https://img.shields.io/badge/Linux_Auditing-166534?style=flat-square&logo=linux&logoColor=white)
@@ -156,41 +156,40 @@ A camera-based Progressive Web App that classifies recyclable, organic and e-was
 
 **Programming languages**
 
-![Java](https://img.shields.io/badge/Java-334155?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-334155?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-334155?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-334155?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-334155?style=flat-square&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-334155?style=flat-square&logo=gnubash&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,py,cpp,js,ts,bash&theme=light">
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,bash&theme=dark" alt="Java, Python, C++, JavaScript, TypeScript and Bash">
+</picture>
 
 **Backend & APIs**
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-166534?style=flat-square&logo=springboot&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=spring,fastapi,maven&theme=light">
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,maven&theme=dark" alt="Spring Boot, FastAPI and Maven">
+</picture>
+
 ![Spring Security](https://img.shields.io/badge/Spring_Security-166534?style=flat-square)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-166534?style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-166534?style=flat-square&logo=fastapi&logoColor=white)
 ![JPA Hibernate](https://img.shields.io/badge/JPA%2FHibernate-166534?style=flat-square)
-![Maven](https://img.shields.io/badge/Maven-334155?style=flat-square&logo=apachemaven&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-334155?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-334155?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-334155?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-334155?style=flat-square&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-334155?style=flat-square&logo=flutter&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,html,css,flutter&theme=light">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,flutter&theme=dark" alt="React, Next.js, HTML5, CSS3 and Flutter">
+</picture>
 
 **Databases & tools**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-334155?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-334155?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-334155?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-334155?style=flat-square&logo=prisma&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-334155?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-334155?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-334155?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-334155?style=flat-square&logo=postman&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,docker,git,github,linux,postman&theme=light&perline=7">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,docker,git,github,linux,postman&theme=dark&perline=7" alt="PostgreSQL, MySQL, MongoDB, Prisma, Docker, Git, GitHub, Linux and Postman">
+</picture>
+
+**AI / Machine Learning**
+
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-7c3aed?style=flat-square&logo=scikitlearn&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random_Forest-7c3aed?style=flat-square)
 
 **Currently learning**
 
