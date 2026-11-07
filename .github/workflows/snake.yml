@@ -16,15 +16,17 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=%23059669&color_dots=%23ebedf0,%23d1fae5,%236ee7b7,%2334d399,%23059669
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%236ee7b7&color_dots=%230d1117,%231b4332,%232d6a4f,%2340966c,%2352b788
 
-      - name: Publish generated SVG
+      - name: Publish generated SVGs
         uses: crazy-max/ghaction-github-pages@v4
         with:
-         build_dir: dist
-         target_branch: output
-         author: "${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>"
-         committer: "${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>"
+          build_dir: dist
+          target_branch: output
+          author: "${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>"
+          committer: "${{ github.actor }} <${{ github.actor_id }}+${{ github.actor }}@users.noreply.github.com>"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BUILD_DIR: dist
