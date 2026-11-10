@@ -30,10 +30,10 @@ I enjoy understanding how systems work, exploring how they can fail, and applyin
 
 **What I work with**
 
-- 🛡️ **Security:** Network reconnaissance, TCP/UDP port auditing, Linux system auditing and hardening
-- ☕ **Backend:** Java 17, Spring Boot 3, Spring Security and REST APIs
+- 🛡️ **Security:** Network reconnaissance, TCP/UDP port auditing, Linux system auditing and hardening.
+- ☕ **Backend:** Java 17, Spring Boot 3, Spring Security and REST APIs.
 - 💻 **Development:** Python, C++, JavaScript, TypeScript, React and Next.js
-- 🗄️ **Data:** PostgreSQL, MySQL, MongoDB and Prisma
+- 🗄️ **Data:** PostgreSQL, MySQL, MongoDB and Prisma.
 
 </td>
 <td width="45%" valign="top">
