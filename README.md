@@ -274,7 +274,7 @@ A camera-based Progressive Web App that classifies recyclable, organic and e-was
 
 ## 🤝 Let's connect
 
-I'm open to learning opportunities, internships, collaborations and meaningful software or security projects.
+I'm open to learning opportunities, internships, collaborations and meaningful software or security projects...
 
 <div align="center">
 
