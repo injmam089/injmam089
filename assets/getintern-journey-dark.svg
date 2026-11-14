@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="592" viewBox="0 0 1120 592" role="img" aria-labelledby="title desc">
+  <title id="title">GetIntern cybersecurity journey — Weeks 1 to 6</title>
+  <desc id="desc">A six-card visual timeline covering network reconnaissance, TCP and UDP port auditing, Linux system auditing and hardening, authentication log analysis, and BruteForce Sentinel incident detection.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08111f"/>
+      <stop offset="1" stop-color="#101b2c"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#34d399" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#34d399" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1120" height="592" rx="24" fill="url(#background)"/>
+  <circle cx="1010" cy="44" r="190" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1118" height="590" rx="23" fill="none" stroke="#263449" stroke-width="1.2"/>
+  <rect x="30" y="28" width="7" height="22" rx="3.5" fill="#34d399"/>
+  <text x="50" y="44" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="750" letter-spacing="2" fill="#a7f3d0">GETINTERN  /  CYBERSECURITY INTERNSHIP</text>
+  <text x="30" y="91" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="760" letter-spacing="-.8" fill="#f8fafc">From network discovery to incident detection</text>
+  <text x="31" y="121" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" fill="#94a3b8">Six documented practicals across reconnaissance, Linux security and defensive detection.</text>
+  <rect x="931" y="30" width="158" height="84" rx="15" fill="#0d1726" stroke="#263449"/>
+  <text x="950" y="73" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="31" font-weight="780" fill="#f8fafc">06</text>
+  <text x="950" y="94" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="9.5" font-weight="750" letter-spacing="1" fill="#94a3b8">WEEKS DOCUMENTED</text>
+  
+  <g>
+    <rect x="28" y="164" width="340" height="182" rx="17" fill="#111d2e" stroke="#263449" stroke-width="1.2"/>
+    <rect x="28" y="180" width="4" height="150" rx="2" fill="#34d399"/>
+    <rect x="48" y="182" width="78" height="25" rx="12.5" fill="#1b2a3d" stroke="#263449" stroke-width=".7"/>
+    <text x="87" y="199" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="750" letter-spacing="1" fill="#34d399">WEEK 01</text>
+    <text x="346" y="199" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.1" fill="#94a3b8">RECON</text>
+    <circle cx="59" cy="242" r="3" fill="#34d399"/>
+    <text x="72" y="249" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#f8fafc">Network reconnaissance</text>
+    <text x="50" y="279" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13.5" fill="#94a3b8">Host discovery and local network mapping.</text>
+    <line x1="50" y1="303" x2="346" y2="303" stroke="#243449" stroke-width="1"/>
+    <text x="50" y="323" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.15" fill="#34d399">DISCOVERY</text>
+    <text x="346" y="323" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="650" fill="#64748b">01 / 06</text>
+  </g>
+  <g>
+    <rect x="390" y="164" width="340" height="182" rx="17" fill="#111d2e" stroke="#263449" stroke-width="1.2"/>
+    <rect x="390" y="180" width="4" height="150" rx="2" fill="#38bdf8"/>
+    <rect x="410" y="182" width="78" height="25" rx="12.5" fill="#1b2a3d" stroke="#263449" stroke-width=".7"/>
+    <text x="449" y="199" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="750" letter-spacing="1" fill="#38bdf8">WEEK 02</text>
+    <text x="708" y="199" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.1" fill="#94a3b8">PORT AUDIT</text>
+    <circle cx="421" cy="242" r="3" fill="#38bdf8"/>
+    <text x="434" y="249" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#f8fafc">TCP/UDP port auditing</text>
+    <text x="412" y="279" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13.5" fill="#94a3b8">Review exposed ports and reachable services.</text>
+    <line x1="412" y1="303" x2="708" y2="303" stroke="#243449" stroke-width="1"/>
+    <text x="412" y="323" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.15" fill="#38bdf8">ATTACK SURFACE</text>
+    <text x="708" y="323" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="650" fill="#64748b">02 / 06</text>
+  </g>
+  <g>
+    <rect x="752" y="164" width="340" height="182" rx="17" fill="#111d2e" stroke="#263449" stroke-width="1.2"/>
+    <rect x="752" y="180" width="4" height="150" rx="2" fill="#a78bfa"/>
+    <rect x="772" y="182" width="78" height="25" rx="12.5" fill="#1b2a3d" stroke="#263449" stroke-width=".7"/>
+    <text x="811" y="199" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="750" letter-spacing="1" fill="#a78bfa">WEEK 03</text>
+    <text x="1070" y="199" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.1" fill="#94a3b8">LINUX AUDIT</text>
+    <circle cx="783" cy="242" r="3" fill="#a78bfa"/>
+    <text x="796" y="249" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#f8fafc">Linux system auditing</text>
+    <text x="774" y="279" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13.5" fill="#94a3b8">Inspect configuration and system security.</text>
+    <line x1="774" y1="303" x2="1070" y2="303" stroke="#243449" stroke-width="1"/>
+    <text x="774" y="323" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.15" fill="#a78bfa">SYSTEM VISIBILITY</text>
+    <text x="1070" y="323" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="650" fill="#64748b">03 / 06</text>
+  </g>
+  <g>
+    <rect x="28" y="366" width="340" height="182" rx="17" fill="#111d2e" stroke="#263449" stroke-width="1.2"/>
+    <rect x="28" y="382" width="4" height="150" rx="2" fill="#fbbf24"/>
+    <rect x="48" y="384" width="78" height="25" rx="12.5" fill="#1b2a3d" stroke="#263449" stroke-width=".7"/>
+    <text x="87" y="401" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="750" letter-spacing="1" fill="#fbbf24">WEEK 04</text>
+    <text x="346" y="401" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.1" fill="#94a3b8">HARDENING</text>
+    <circle cx="59" cy="444" r="3" fill="#fbbf24"/>
+    <text x="72" y="451" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#f8fafc">Linux system hardening</text>
+    <text x="50" y="481" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13.5" fill="#94a3b8">Apply safeguards and reduce system exposure.</text>
+    <line x1="50" y1="505" x2="346" y2="505" stroke="#243449" stroke-width="1"/>
+    <text x="50" y="525" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.15" fill="#fbbf24">DEFENSE</text>
+    <text x="346" y="525" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="650" fill="#64748b">04 / 06</text>
+  </g>
+  <g>
+    <rect x="390" y="366" width="340" height="182" rx="17" fill="#111d2e" stroke="#263449" stroke-width="1.2"/>
+    <rect x="390" y="382" width="4" height="150" rx="2" fill="#2dd4bf"/>
+    <rect x="410" y="384" width="78" height="25" rx="12.5" fill="#1b2a3d" stroke="#263449" stroke-width=".7"/>
+    <text x="449" y="401" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="750" letter-spacing="1" fill="#2dd4bf">WEEK 05</text>
+    <text x="708" y="401" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.1" fill="#94a3b8">LOG ANALYSIS</text>
+    <circle cx="421" cy="444" r="3" fill="#2dd4bf"/>
+    <text x="434" y="451" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#f8fafc">Log analysis & aggregation</text>
+    <text x="412" y="481" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13.5" fill="#94a3b8">Parse auth logs and aggregate failed logins.</text>
+    <line x1="412" y1="505" x2="708" y2="505" stroke="#243449" stroke-width="1"/>
+    <text x="412" y="525" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.15" fill="#2dd4bf">DEFENSIVE TELEMETRY</text>
+    <text x="708" y="525" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="650" fill="#64748b">05 / 06</text>
+  </g>
+  <g>
+    <rect x="752" y="366" width="340" height="182" rx="17" fill="#111d2e" stroke="#263449" stroke-width="1.2"/>
+    <rect x="752" y="382" width="4" height="150" rx="2" fill="#f472b6"/>
+    <rect x="772" y="384" width="78" height="25" rx="12.5" fill="#1b2a3d" stroke="#263449" stroke-width=".7"/>
+    <text x="811" y="401" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="750" letter-spacing="1" fill="#f472b6">WEEK 06</text>
+    <text x="1070" y="401" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.1" fill="#94a3b8">DETECTION</text>
+    <circle cx="783" cy="444" r="3" fill="#f472b6"/>
+    <text x="796" y="451" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#f8fafc">BruteForce Sentinel</text>
+    <text x="774" y="481" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13.5" fill="#94a3b8">Sliding-window detection and incident alerting.</text>
+    <line x1="774" y1="505" x2="1070" y2="505" stroke="#243449" stroke-width="1"/>
+    <text x="774" y="525" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1.15" fill="#f472b6">INCIDENT RESPONSE</text>
+    <text x="1070" y="525" text-anchor="end" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10" font-weight="650" fill="#64748b">06 / 06</text>
+  </g>
+  <text x="560" y="579" text-anchor="middle" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="700" letter-spacing="1.4" fill="#94a3b8">DISCOVER  →  AUDIT  →  HARDEN  →  ANALYZE  →  DETECT</text>
+</svg>
