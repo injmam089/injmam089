@@ -60,18 +60,29 @@ My work sits at the intersection of **security, backend engineering, and practic
 
 ### GetIntern.in · Cybersecurity Intern
 
-<sub>October 2026 – Present · Practical 8-week track</sub>
+<sub>October 2026 – Present · Practical 8-week track · 6 practicals documented</sub>
 
-Hands-on work progressing from network reconnaissance and Linux auditing to authentication-log analysis, failed-login aggregation, and automated brute-force detection with incident reporting.
+A hands-on progression from network discovery and Linux security to defensive telemetry, authentication analysis, and automated incident detection.
 
-| Week | Practical work | Evidence |
-|:---:|---|:---:|
-| 01 | Network reconnaissance & host discovery | [View lab](https://github.com/injmam089/week-1-network-recon) |
-| 02 | TCP/UDP port auditing | [View lab](https://github.com/injmam089/week-2-port-auditing) |
-| 03 | Linux system auditing | [View lab](https://github.com/injmam089/week-3-linux-system-auditing) |
-| 04 | Linux system hardening | [View lab](https://github.com/injmam089/week-4-linux-hardening) |
-| 05 | Log extraction & authentication-failure aggregation | [View lab](https://github.com/injmam089/week-5-log-extraction-auth-failure-aggregation) |
-| 06 | BruteForce Sentinel — brute-force detection & incident alerting | [View project](https://github.com/injmam089/week-6-brute-force-sentinel) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/getintern-journey-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/getintern-journey-light.svg">
+  <img src="assets/getintern-journey-dark.svg" alt="GetIntern cybersecurity journey: six practical stages covering network reconnaissance, TCP/UDP auditing, Linux auditing and hardening, authentication log analysis, and BruteForce Sentinel incident detection." width="100%">
+</picture>
+
+<p align="center">
+  <sub><strong>WEEKLY PRACTICAL EVIDENCE</strong> · Open each repository to explore the work</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/injmam089/week-1-network-recon"><img src="https://img.shields.io/badge/W01-Network%20Recon-047857?style=flat-square" alt="Week 1 — Network reconnaissance"></a>
+  <a href="https://github.com/injmam089/week-2-port-auditing"><img src="https://img.shields.io/badge/W02-Port%20Audit-0369a1?style=flat-square" alt="Week 2 — TCP/UDP port audit"></a>
+  <a href="https://github.com/injmam089/week-3-linux-system-auditing"><img src="https://img.shields.io/badge/W03-Linux%20Audit-6d28d9?style=flat-square" alt="Week 3 — Linux system auditing"></a>
+  <br>
+  <a href="https://github.com/injmam089/week-4-linux-hardening"><img src="https://img.shields.io/badge/W04-System%20Hardening-a16207?style=flat-square" alt="Week 4 — Linux system hardening"></a>
+  <a href="https://github.com/injmam089/week-5-log-extraction-auth-failure-aggregation"><img src="https://img.shields.io/badge/W05-Log%20Analysis-0f766e?style=flat-square" alt="Week 5 — Log extraction and authentication failure aggregation"></a>
+  <a href="https://github.com/injmam089/week-6-brute-force-sentinel"><img src="https://img.shields.io/badge/W06-BruteForce%20Sentinel-be185d?style=flat-square" alt="Week 6 — BruteForce Sentinel"></a>
+</p>
 
 ### YuvaIntern · Cyber Security Analyst — Online Virtual Intern
 
