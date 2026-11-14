@@ -62,7 +62,7 @@ My work sits at the intersection of **security, backend engineering, and practic
 
 <sub>October 2026 – Present · Practical 8-week track</sub>
 
-Hands-on work covering local network reconnaissance and host discovery, TCP/UDP port auditing with Nmap, Linux system auditing, and system hardening.
+Hands-on work progressing from network reconnaissance and Linux auditing to authentication-log analysis, failed-login aggregation, and automated brute-force detection with incident reporting.
 
 | Week | Practical work | Evidence |
 |:---:|---|:---:|
@@ -70,6 +70,8 @@ Hands-on work covering local network reconnaissance and host discovery, TCP/UDP 
 | 02 | TCP/UDP port auditing | [View lab](https://github.com/injmam089/week-2-port-auditing) |
 | 03 | Linux system auditing | [View lab](https://github.com/injmam089/week-3-linux-system-auditing) |
 | 04 | Linux system hardening | [View lab](https://github.com/injmam089/week-4-linux-hardening) |
+| 05 | Log extraction & authentication-failure aggregation | [View lab](https://github.com/injmam089/week-5-log-extraction-auth-failure-aggregation) |
+| 06 | BruteForce Sentinel — brute-force detection & incident alerting | [View project](https://github.com/injmam089/week-6-brute-force-sentinel) |
 
 ### YuvaIntern · Cyber Security Analyst — Online Virtual Intern
 
