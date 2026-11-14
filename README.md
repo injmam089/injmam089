@@ -225,7 +225,7 @@ A camera-based Progressive Web App that classifies recyclable, organic, and e-wa
 
 <div align="center">
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/rowkavdev/GitHub-profile-stats">
   <img src="https://ghstats.dev/api/card?username=injmam089&alltime=true&theme=forest&hide_border=true&bg=0b1220&text=cbd5e1&title_color=86efac&icon_color=34d399&border_color=263449&custom_title=All-time%20GitHub%20Stats" width="49%" alt="GitHub statistics with all-time commits">
 </a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
