@@ -226,7 +226,7 @@ A camera-based Progressive Web App that classifies recyclable, organic, and e-wa
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=injmam089&include_all_commits=true&show_icons=true&hide_rank=true&custom_title=All-time%20GitHub%20Stats&bg_color=0b1220&title_color=86efac&text_color=cbd5e1&icon_color=34d399&border_color=263449&hide_border=true&number_format=long" width="49%" alt="GitHub statistics with all-time commits">
+  <img src="https://ghstats.dev/api/card?username=injmam089&alltime=true&theme=forest&hide_border=true&bg=0b1220&text=cbd5e1&title_color=86efac&icon_color=34d399&border_color=263449&custom_title=All-time%20GitHub%20Stats" width="49%" alt="GitHub statistics with all-time commits">
 </a>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
   <img src="https://streak-stats.demolab.com/?user=injmam089&theme=dark&background=0b1220&ring=34d399&fire=34d399&currStreakLabel=86efac&sideLabels=cbd5e1&dates=94a3b8&hide_border=true&locale=en&timezone=Asia%2FKolkata" width="49%" alt="GitHub contribution streak, current streak and longest streak">
