@@ -123,7 +123,7 @@ A curated selection of application, backend, IoT, and security-focused work. Eac
     <td width="50%" valign="top">
       <table width="100%" border="1" bordercolor="#263449" cellpadding="10" cellspacing="0">
         <tr><td>
-          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/password-analyzer.svg" width="100%" alt="Illustrative UI preview of the Password Strength and Security Analyzer">
+          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/password-analyzer.svg" width="400" alt="Illustrative UI preview of the Password Strength and Security Analyzer">
           <p><sub><strong>SECURITY TOOL · CLIENT-SIDE WEB APP</strong></sub></p>
           <h3>🔐 Password Strength &amp; Security Analyzer</h3>
           <p>A privacy-first browser tool for password-strength analysis, common-password checks, contextual recommendations, and secure password generation.</p>
@@ -138,7 +138,7 @@ A curated selection of application, backend, IoT, and security-focused work. Eac
     <td width="50%" valign="top">
       <table width="100%" border="1" bordercolor="#263449" cellpadding="10" cellspacing="0">
         <tr><td>
-          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/hams.svg" width="100%" alt="Illustrative UI preview of the HAMS hospital appointment dashboard">
+          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/hams.svg" width="400" alt="Illustrative UI preview of the HAMS hospital appointment dashboard">
           <p><sub><strong>HEALTHCARE · FULL-STACK PLATFORM</strong></sub></p>
           <h3>🏥 HAMS — Hospital Appointment Management System</h3>
           <p>A healthcare platform with secure authentication, role-based access, appointment workflows, and consultation and prescription management.</p>
@@ -155,7 +155,7 @@ A curated selection of application, backend, IoT, and security-focused work. Eac
     <td width="50%" valign="top">
       <table width="100%" border="1" bordercolor="#263449" cellpadding="10" cellspacing="0">
         <tr><td>
-          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/cooperative-gig.svg" width="100%" alt="Illustrative UI preview of the Cooperative Gig Services marketplace">
+          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/cooperative-gig.svg" width="400" alt="Illustrative UI preview of the Cooperative Gig Services marketplace">
           <p><sub><strong>MARKETPLACE · SMART INDIA HACKATHON 26089</strong></sub></p>
           <h3>🤝 Cooperative Gig Services Platform — SIH 26089</h3>
           <p>A cooperative marketplace connecting customers with verified workers, supporting service booking, worker management, and AI-assisted demand forecasting.</p>
@@ -170,7 +170,7 @@ A curated selection of application, backend, IoT, and security-focused work. Eac
     <td width="50%" valign="top">
       <table width="100%" border="1" bordercolor="#263449" cellpadding="10" cellspacing="0">
         <tr><td>
-          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/savor.svg" width="100%" alt="Illustrative UI preview of the SAVOR restaurant menu and reservation interface">
+          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/savor.svg" width="400" alt="Illustrative UI preview of the SAVOR restaurant menu and reservation interface">
           <p><sub><strong>FOOD &amp; HOSPITALITY · FULL-STACK WEB APP</strong></sub></p>
           <h3>🍽️ SAVOR — Restaurant Ordering Platform</h3>
           <p>A full-stack restaurant platform with online ordering, table reservations, authentication, admin management, and a responsive user interface.</p>
@@ -187,7 +187,7 @@ A curated selection of application, backend, IoT, and security-focused work. Eac
     <td width="50%" valign="top">
       <table width="100%" border="1" bordercolor="#263449" cellpadding="10" cellspacing="0">
         <tr><td>
-          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/landsafe.svg" width="100%" alt="Illustrative UI preview of the LANDSAFE IoT landslide-monitoring dashboard">
+          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/landsafe.svg" width="400" alt="Illustrative UI preview of the LANDSAFE IoT landslide-monitoring dashboard">
           <p><sub><strong>IOT · VISHWAKARMA 2026</strong></sub></p>
           <h3>🌍 LANDSAFE — Vishwakarma 2026</h3>
           <p>An IoT landslide-monitoring prototype with real-time sensor telemetry, automated risk evaluation, device-health monitoring, and emergency alerts.</p>
@@ -202,7 +202,7 @@ A curated selection of application, backend, IoT, and security-focused work. Eac
     <td width="50%" valign="top">
       <table width="100%" border="1" bordercolor="#263449" cellpadding="10" cellspacing="0">
         <tr><td>
-          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/smart-waste.svg" width="100%" alt="Illustrative UI preview of the Smart Waste Classifier camera scanning interface">
+          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/smart-waste.svg" width="400" alt="Illustrative UI preview of the Smart Waste Classifier camera scanning interface">
           <p><sub><strong>AI · PROGRESSIVE WEB APP</strong></sub></p>
           <h3>♻️ Smart Waste Classifier</h3>
           <p>A camera-based Progressive Web App that classifies recyclable, organic, and e-waste, then provides category-specific disposal guidance.</p>
