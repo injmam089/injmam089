@@ -223,16 +223,26 @@ A camera-based Progressive Web App that classifies recyclable, organic, and e-wa
   <sub>Live profile metrics · all-time commit count · contribution streak</sub>
 </p>
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/rowkavdev/GitHub-profile-stats">
+    <img src="https://ghstats.dev/api/mini?username=injmam089&metric=commits&alltime=true&color=34d399&style=for-the-badge" alt="All-time commits">
+  </a>
+</p>
 
-<a href="https://github.com/rowkavdev/GitHub-profile-stats">
-  <img src="https://ghstats.dev/api/card?username=injmam089&alltime=true&theme=forest&hide_border=true&bg=0b1220&text=cbd5e1&title_color=86efac&icon_color=34d399&border_color=263449&custom_title=All-time%20GitHub%20Stats" width="49%" alt="GitHub statistics with all-time commits">
-</a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=injmam089&theme=dark&background=0b1220&ring=34d399&fire=34d399&currStreakLabel=86efac&sideLabels=cbd5e1&dates=94a3b8&hide_border=true&locale=en&timezone=Asia%2FKolkata" width="49%" alt="GitHub contribution streak, current streak and longest streak">
-</a>
-
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/rowkavdev/GitHub-profile-stats">
+        <img src="https://ghstats.dev/api/card?username=injmam089&alltime=true&hide=commits&theme=forest&hide_border=true&bg=0b1220&text=cbd5e1&title_color=86efac&icon_color=34d399&border_color=263449&custom_title=GitHub%20Activity%20%26%20All-time%20Totals" width="100%" alt="GitHub activity and all-time totals">
+      </a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=injmam089&theme=dark&background=0b1220&ring=34d399&fire=34d399&currStreakLabel=86efac&sideLabels=cbd5e1&dates=94a3b8&hide_border=true&locale=en&timezone=Asia%2FKolkata" width="100%" alt="GitHub contribution streak, current streak and longest streak">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <sub>Streaks track consecutive contribution days (commits, pull requests, and issues), not commit-only days. New activity may take time to appear. Enable <strong>Private contributions</strong> on your GitHub profile if you want eligible private activity reflected in the contribution graph.</sub>
