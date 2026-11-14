@@ -223,11 +223,17 @@ A camera-based Progressive Web App that classifies recyclable, organic, and e-wa
   <sub>Live profile metrics · all-time commit count · contribution streak</sub>
 </p>
 
+<p align="center">
+  <a href="https://github.com/rowkavdev/GitHub-profile-stats">
+    <img src="https://ghstats.dev/api/mini?username=injmam089&metric=commits&alltime=true&color=34d399&style=for-the-badge" alt="All-time commits">
+  </a>
+</p>
+
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
       <a href="https://github.com/rowkavdev/GitHub-profile-stats">
-        <img src="https://ghstats.dev/api/card?username=injmam089&alltime=true&theme=forest&hide_border=true&bg=0b1220&text=cbd5e1&title_color=86efac&icon_color=34d399&border_color=263449&custom_title=GitHub%20Activity%20%26%20All-time%20Totals" width="100%" alt="GitHub activity and all-time totals">
+        <img src="https://ghstats.dev/api/card?username=injmam089&alltime=true&hide=commits&theme=forest&hide_border=true&bg=0b1220&text=cbd5e1&title_color=86efac&icon_color=34d399&border_color=263449&custom_title=GitHub%20Activity%20%26%20All-time%20Totals" width="100%" alt="GitHub activity and all-time totals">
       </a>
     </td>
     <td width="50%" valign="top" align="center">
