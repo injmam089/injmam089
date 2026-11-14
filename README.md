@@ -65,9 +65,9 @@ My work sits at the intersection of **security, backend engineering, and practic
 A hands-on progression from network discovery and Linux security to defensive telemetry, authentication analysis, and automated incident detection.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/injmam089/injmam089/main/assets/getintern-journey-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/injmam089/injmam089/main/assets/getintern-journey-light.svg">
-  <img src="https://raw.githubusercontent.com/injmam089/injmam089/main/assets/getintern-journey-dark.svg" alt="GetIntern cybersecurity journey: six practical stages covering network reconnaissance, TCP/UDP auditing, Linux auditing and hardening, authentication log analysis, and BruteForce Sentinel incident detection." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/injmam089/injmam089/7b9b1c5ea7bbe4940983827942369bb85152e244/assets/getintern-journey-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/injmam089/injmam089/7b9b1c5ea7bbe4940983827942369bb85152e244/assets/getintern-journey-light.svg">
+  <img src="https://raw.githubusercontent.com/injmam089/injmam089/7b9b1c5ea7bbe4940983827942369bb85152e244/assets/getintern-journey-dark.svg" alt="GetIntern cybersecurity journey: six practical stages covering network reconnaissance, TCP/UDP auditing, Linux auditing and hardening, authentication log analysis, and BruteForce Sentinel incident detection." width="100%">
 </picture>
 
 <p align="center">
