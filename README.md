@@ -2,17 +2,23 @@
 
 <img src="assets/banner-v3.svg" alt="Injmam Ansari — Cybersecurity, Backend Engineering and Full-Stack Development" width="100%">
 
-<br><br>
+<br>
 
-<a href="https://www.linkedin.com/in/injmam089/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:injmam553@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/injmam089?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-059669?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"></a>
+<p>
+  <strong>Cybersecurity</strong> &nbsp;·&nbsp; <strong>Backend Engineering</strong> &nbsp;·&nbsp; <strong>Full-Stack Development</strong>
+</p>
 
-<br><br>
+<p>
+  <a href="https://www.linkedin.com/in/injmam089/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:injmam553@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/injmam089?tab=repositories"><img src="https://img.shields.io/badge/Projects-Explore-059669?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories"></a>
+</p>
 
-<img src="https://img.shields.io/badge/BCA-Integral%20University-0f766e?style=flat-square" alt="BCA student">
-<img src="https://img.shields.io/badge/Cybersecurity-Hands--on%20learning-0f766e?style=flat-square" alt="Cybersecurity">
-<img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring-0c4a6e?style=flat-square" alt="Java backend">
+<p>
+  <img src="https://img.shields.io/badge/BCA-Integral%20University-0f766e?style=flat-square" alt="BCA student">
+  <img src="https://img.shields.io/badge/Cybersecurity-Hands--on%20learning-0f766e?style=flat-square" alt="Cybersecurity">
+  <img src="https://img.shields.io/badge/Backend-Java%20%7C%20Spring-0c4a6e?style=flat-square" alt="Java backend">
+</p>
 
 </div>
 
@@ -22,103 +28,76 @@
 
 I'm **Injmam Ansari**, a BCA student at Integral University, cybersecurity intern, and full-stack/backend developer.
 
-I enjoy understanding how systems work, exploring how they can fail, and applying that knowledge to build useful and more secure software.
+I enjoy understanding how systems work, exploring how they can fail, and applying that knowledge to build useful, reliable, and more secure software.
 
-<table>
-<tr>
-<td width="55%" valign="top">
+My work sits at the intersection of **security, backend engineering, and practical product development** — from network-auditing labs to full-stack applications.
 
-**What I work with**
+## 🎯 What I focus on
 
-- 🛡️ **Security:** Network reconnaissance, TCP/UDP port auditing, Linux system auditing and hardening.
-- ☕ **Backend:** Java 17, Spring Boot 3, Spring Security and REST APIs.
-- 💻 **Development:** Python, C++, JavaScript, TypeScript, React and Next.js
-- 🗄️ **Data:** PostgreSQL, MySQL, MongoDB and Prisma.
-
-</td>
-<td width="45%" valign="top">
+| Area | Current toolkit |
+|---|---|
+| 🛡️ **Cybersecurity** | Nmap, network reconnaissance, TCP/UDP port auditing, Linux auditing and system hardening |
+| ☕ **Backend engineering** | Java 17, Spring Boot 3, Spring Security, REST APIs |
+| 💻 **Application development** | Python, C++, JavaScript, TypeScript, React, Next.js |
+| 🗄️ **Data & persistence** | PostgreSQL, MySQL, MongoDB, Prisma |
 
 **Current direction**
 
-- Build practical full-stack applications
-- Strengthen cybersecurity fundamentals through hands-on labs
-- Learn cloud computing and DevSecOps
-- Improve secure API development and deployment
+- Build practical full-stack applications with clear architecture.
+- Strengthen cybersecurity fundamentals through hands-on labs.
+- Improve secure API development, testing, and deployment.
+- Explore cloud computing and DevSecOps.
 
-<br>
+<div align="center">
 
 `Understand → Build → Test → Secure → Improve`
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
 ## 🛡️ Experience & cybersecurity journey
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### GetIntern.in
-
-**Cybersecurity Intern**
+### GetIntern.in · Cybersecurity Intern
 
 <sub>October 2026 – Present · Practical 8-week track</sub>
 
-Hands-on work covering local network reconnaissance and host discovery, TCP/UDP port auditing with Nmap, Linux system auditing and system hardening.
+Hands-on work covering local network reconnaissance and host discovery, TCP/UDP port auditing with Nmap, Linux system auditing, and system hardening.
 
 | Week | Practical work | Evidence |
 |:---:|---|:---:|
-| 01 | Network reconnaissance & host discovery | [View](https://github.com/injmam089/week-1-network-recon) |
-| 02 | TCP/UDP port auditing | [View](https://github.com/injmam089/week-2-port-auditing) |
-| 03 | Linux system auditing | [View](https://github.com/injmam089/week-3-linux-system-auditing) |
-| 04 | Linux system hardening | [View](https://github.com/injmam089/week-4-linux-hardening) |
+| 01 | Network reconnaissance & host discovery | [View lab](https://github.com/injmam089/week-1-network-recon) |
+| 02 | TCP/UDP port auditing | [View lab](https://github.com/injmam089/week-2-port-auditing) |
+| 03 | Linux system auditing | [View lab](https://github.com/injmam089/week-3-linux-system-auditing) |
+| 04 | Linux system hardening | [View lab](https://github.com/injmam089/week-4-linux-hardening) |
 
-</td>
-<td width="50%" valign="top">
-
-### YuvaIntern
-
-**Cyber Security Analyst — Online Virtual Intern**
+### YuvaIntern · Cyber Security Analyst — Online Virtual Intern
 
 <sub>04 October 2026 – 04 November 2026</sub>
 
-Virtual internship assignments covering cyber threat landscape analysis, network security configuration, incident response simulation and security policy review.
+Virtual internship assignments covering cyber threat landscape analysis, network security configuration, incident response simulation, and security policy review.
 
 | Week | Assignment | Evidence |
 |:---:|---|:---:|
-| 01 | Cyber threat landscape analysis | [View](https://github.com/injmam089/week-1-cyber-threat-landscape-analysis) |
-| 02 | Network security configuration | [View](https://github.com/injmam089/week-2-network-security-configuration) |
-| 03 | Incident response simulation | [View](https://github.com/injmam089/week-3-incident-response-simulation) |
-| 04 | Security policy review | [View](https://github.com/injmam089/week-4-security-policy-review) |
-
-</td>
-</tr>
-</table>
+| 01 | Cyber threat landscape analysis | [View assignment](https://github.com/injmam089/week-1-cyber-threat-landscape-analysis) |
+| 02 | Network security configuration | [View assignment](https://github.com/injmam089/week-2-network-security-configuration) |
+| 03 | Incident response simulation | [View assignment](https://github.com/injmam089/week-3-incident-response-simulation) |
+| 04 | Security policy review | [View assignment](https://github.com/injmam089/week-4-security-policy-review) |
 
 ---
 
 ## 🚀 Featured projects
 
-A selection of application, backend, IoT and security-focused work. Each card links to its source repository and, where available, a live demo.
-
-<table>
-<tr>
-<td width="50%" valign="top">
+A selection of application, backend, IoT, and security-focused work. Each project links to its source repository and, where available, a live demo.
 
 ### 🔐 Password Strength & Security Analyzer
 
-A browser-based tool that evaluates password strength, detects common weaknesses and provides improvement recommendations.
+A browser-based tool that evaluates password strength, detects common weaknesses, and provides improvement recommendations.
 
 **Stack:** `HTML` · `CSS` · `JavaScript`
 
-<a href="https://github.com/injmam089/password-strength-security-analyzer-web"><img src="https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github" alt="Source code"></a>
-<a href="https://password-strength-security-analyzer-zeta.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&logo=vercel" alt="Live demo"></a>
-
-</td>
-<td width="50%" valign="top">
+[![Source code](https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github)](https://github.com/injmam089/password-strength-security-analyzer-web)
+[![Live demo](https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&logo=vercel)](https://password-strength-security-analyzer-zeta.vercel.app/)
 
 ### 🏥 HAMS — Hospital Appointment Management System
 
@@ -126,74 +105,54 @@ A hospital appointment platform with secure authentication, role-based access, a
 
 **Stack:** `Java 17` · `Spring Boot` · `Spring Security` · `PostgreSQL` · `JWT` · `Docker`
 
-<a href="https://github.com/injmam089/Hospital-Appointment-Management-System"><img src="https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github" alt="Source code"></a>
-<a href="https://hospital-appointment-management-sys-three.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&logo=vercel" alt="Live demo"></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[![Source code](https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github)](https://github.com/injmam089/Hospital-Appointment-Management-System)
+[![Live demo](https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&logo=vercel)](https://hospital-appointment-management-sys-three.vercel.app/)
 
 ### 🤝 Cooperative Gig Services Platform — SIH 26089
 
-A cooperative marketplace connecting customers with verified workers, supporting service booking, worker management and AI-assisted demand forecasting.
+A cooperative marketplace connecting customers with verified workers, supporting service booking, worker management, and AI-assisted demand forecasting.
 
 **Stack:** `Java` · `Spring Boot` · `MySQL` · `FastAPI` · `Flutter` · `Docker`
 
-<a href="https://github.com/injmam089/cooperative-gig-platform"><img src="https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github" alt="Source code"></a>
-<a href="https://cooperative-gig-platform.onrender.com/"><img src="https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square" alt="Live demo"></a>
-
-</td>
-<td width="50%" valign="top">
+[![Source code](https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github)](https://github.com/injmam089/cooperative-gig-platform)
+[![Live demo](https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square)](https://cooperative-gig-platform.onrender.com/)
 
 ### 🍽️ SAVOR — Restaurant Ordering Platform
 
-A full-stack restaurant platform with online ordering, table reservations, authentication, admin management and a responsive user interface.
+A full-stack restaurant platform with online ordering, table reservations, authentication, admin management, and a responsive user interface.
 
 **Stack:** `Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `NextAuth`
 
-<a href="https://github.com/injmam089/savor"><img src="https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github" alt="Source code"></a>
-<a href="https://savor-lime.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&logo=vercel" alt="Live demo"></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+[![Source code](https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github)](https://github.com/injmam089/savor)
+[![Live demo](https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&logo=vercel)](https://savor-lime.vercel.app/)
 
 ### 🌍 LANDSAFE — Vishwakarma 2026
 
-An IoT landslide-monitoring prototype with real-time sensor telemetry, automated risk evaluation, device-health monitoring and emergency alerts.
+An IoT landslide-monitoring prototype with real-time sensor telemetry, automated risk evaluation, device-health monitoring, and emergency alerts.
 
 **Stack:** `Java` · `Spring Boot` · `PostgreSQL` · `STOMP WebSocket` · `React` · `TypeScript` · `Docker`
 
-<a href="https://github.com/injmam089/vishwakarma-2026"><img src="https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github" alt="Source code"></a>
-<a href="https://vishwakarma-2026.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&logo=vercel" alt="Live demo"></a>
-
-</td>
-<td width="50%" valign="top">
+[![Source code](https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github)](https://github.com/injmam089/vishwakarma-2026)
+[![Live demo](https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square)](https://vishwakarma-2026.vercel.app/)
 
 ### ♻️ Smart Waste Classifier
 
-A camera-based Progressive Web App that classifies recyclable, organic and e-waste, then provides category-specific disposal guidance.
+A camera-based Progressive Web App that classifies recyclable, organic, and e-waste, then provides category-specific disposal guidance.
 
 **Stack:** `HTML5` · `CSS3` · `JavaScript` · `Teachable Machine` · `PWA`
 
-<a href="https://github.com/injmam089/smart-waste-classifier"><img src="https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github" alt="Source code"></a>
-<a href="https://smart-waste-classifier-steel.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&logo=vercel" alt="Live demo"></a>
-
-</td>
-</tr>
-</table>
+[![Source code](https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github)](https://github.com/injmam089/smart-waste-classifier)
+[![Live demo](https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&logo=vercel)](https://smart-waste-classifier-steel.vercel.app/)
 
 <details>
-<summary><b>More projects — UniPortal, SAHAYAK, NovaMart and CyberTorque 2D</b></summary>
+<summary><strong>More projects — UniPortal, SAHAYAK, NovaMart and CyberTorque 2D</strong></summary>
 
 | Project | What it is | Links |
 |---|---|---|
-| **UniPortal** | Student management portal for academic records, attendance, schedules, results and student workflows. | [Repository](https://github.com/injmam089/UniPortal) · [Live demo](https://uniportal-7vas.onrender.com/) |
-| **SAHAYAK — Smart Assistive Stick** | Assistive technology platform combining an ESP32 device, Flutter mobile app and Spring Boot backend for hazard alerts and caregiver connectivity. | [Repository](https://github.com/injmam089/SAHAYAK-Smart-Assistive-Stick) |
-| **NovaMart — E-Commerce Website** | React storefront with product search, filtering, wishlist, cart, coupons and checkout flows. | [Repository](https://github.com/injmam089/Mart-E-Commerce-Website) |
-| **CyberTorque 2D** | C++ top-down arcade racing game with vehicle physics, AI traffic, drifting, procedural audio and save data. | [Repository](https://github.com/injmam089/CyberTorque-2D) |
+| **UniPortal** | Student management portal for academic records, attendance, schedules, results, and student workflows. | [Repository](https://github.com/injmam089/UniPortal) · [Live demo](https://uniportal-7vas.onrender.com/) |
+| **SAHAYAK — Smart Assistive Stick** | Assistive technology platform combining an ESP32 device, Flutter mobile app, and Spring Boot backend for hazard alerts and caregiver connectivity. | [Repository](https://github.com/injmam089/SAHAYAK-Smart-Assistive-Stick) |
+| **NovaMart — E-Commerce Website** | React storefront with product search, filtering, wishlist, cart, coupons, and checkout flows. | [Repository](https://github.com/injmam089/Mart-E-Commerce-Website) |
+| **CyberTorque 2D** | C++ top-down arcade racing game with vehicle physics, AI traffic, drifting, procedural audio, and save data. | [Repository](https://github.com/injmam089/CyberTorque-2D) |
 
 </details>
 
@@ -231,7 +190,7 @@ A camera-based Progressive Web App that classifies recyclable, organic and e-was
 ![REST APIs](https://img.shields.io/badge/REST_APIs-166534?style=flat-square)
 ![JPA Hibernate](https://img.shields.io/badge/JPA%2FHibernate-166534?style=flat-square)
 
-### Frontend
+### Frontend & mobile
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,html,css,flutter&theme=light">
@@ -258,7 +217,28 @@ A camera-based Progressive Web App that classifies recyclable, organic and e-was
 
 ---
 
-## 📈 Contribution activity
+## 📊 GitHub analytics
+
+<p align="center">
+  <sub>Live profile metrics · all-time commit count · contribution streak</sub>
+</p>
+
+<div align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=injmam089&include_all_commits=true&show_icons=true&hide_rank=true&custom_title=All-time%20GitHub%20Stats&bg_color=0b1220&title_color=86efac&text_color=cbd5e1&icon_color=34d399&border_color=263449&hide_border=true&number_format=long" width="49%" alt="GitHub statistics with all-time commits">
+</a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=injmam089&theme=dark&background=0b1220&ring=34d399&fire=34d399&currStreakLabel=86efac&sideLabels=cbd5e1&dates=94a3b8&hide_border=true&locale=en&timezone=Asia%2FKolkata" width="49%" alt="GitHub contribution streak, current streak and longest streak">
+</a>
+
+</div>
+
+<p align="center">
+  <sub>Streaks track consecutive contribution days (commits, pull requests, and issues), not commit-only days. New activity may take time to appear. Enable <strong>Private contributions</strong> on your GitHub profile if you want eligible private activity reflected in the contribution graph.</sub>
+</p>
+
+## 🐍 Contribution activity
 
 <p align="center">
   <sub>Contribution trail · automatically generated with GitHub Actions · light and dark theme support</sub>
@@ -274,7 +254,7 @@ A camera-based Progressive Web App that classifies recyclable, organic and e-was
 
 ## 🤝 Let's connect
 
-I'm open to learning opportunities, internships, collaborations and meaningful software or security projects...
+I'm open to learning opportunities, internships, collaborations, and meaningful software or security projects.
 
 <div align="center">
 
