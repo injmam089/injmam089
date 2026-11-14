@@ -156,6 +156,10 @@ A camera-based Progressive Web App that classifies recyclable, organic, and e-wa
 
 </details>
 
+<p align="center">
+  <sub>Some live demos use free hosting and may take a little time to wake up on the first visit.</sub>
+</p>
+
 ---
 
 ## 🧰 Technology
@@ -264,18 +268,24 @@ A camera-based Progressive Web App that classifies recyclable, organic, and e-wa
 
 ## 🤝 Let's connect
 
-I'm open to learning opportunities, internships, collaborations, and meaningful software or security projects.
+<p align="center">
+  <strong>Have an idea, opportunity, or project in mind?</strong><br>
+  I'm open to internships, collaborations, and meaningful software or cybersecurity work.
+</p>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/injmam089/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:injmam553@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://github.com/injmam089"><img src="https://img.shields.io/badge/GitHub-Follow-059669?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/injmam089/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"></a>
+<a href="mailto:injmam553@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email"></a>
+<a href="https://github.com/injmam089"><img src="https://img.shields.io/badge/GitHub-Follow-059669?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"></a>
 
 <br><br>
 
-<sub>Thanks for stopping by. Keep learning, keep building.</sub>
+<strong>Building. Learning. Securing.</strong>
+
+<br>
+
+<sub>Thanks for visiting my profile · © 2026 Injmam Ansari</sub>
 
 </div>
 
-<sub>Some live demos use free hosting and may take a little time to wake up on the first visit.</sub>
