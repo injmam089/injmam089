@@ -112,61 +112,110 @@ Virtual internship assignments covering cyber threat landscape analysis, network
 
 ## 🚀 Featured projects
 
-A selection of application, backend, IoT, and security-focused work. Each project links to its source repository and, where available, a live demo.
+A curated selection of application, backend, IoT, and security-focused work. Each project card includes an illustrative interface preview, its technology stack, source repository, and live demo where available.
 
-### 🔐 Password Strength & Security Analyzer
+<p align="center">
+  <sub>PROJECT GALLERY · SIX FEATURED BUILDS · PREVIEW ARTWORK IS ILLUSTRATIVE, NOT A CAPTURE OF THE LIVE APPLICATION</sub>
+</p>
 
-A browser-based tool that evaluates password strength, detects common weaknesses, and provides improvement recommendations.
-
-**Stack:** `HTML` · `CSS` · `JavaScript`
-
-[![Source code](https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github)](https://github.com/injmam089/password-strength-security-analyzer-web)
-[![Live demo](https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&logo=vercel)](https://password-strength-security-analyzer-zeta.vercel.app/)
-
-### 🏥 HAMS — Hospital Appointment Management System
-
-A hospital appointment platform with secure authentication, role-based access, appointment workflows, and consultation/prescription management.
-
-**Stack:** `Java 17` · `Spring Boot` · `Spring Security` · `PostgreSQL` · `JWT` · `Docker`
-
-[![Source code](https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github)](https://github.com/injmam089/Hospital-Appointment-Management-System)
-[![Live demo](https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&logo=vercel)](https://hospital-appointment-management-sys-three.vercel.app/)
-
-### 🤝 Cooperative Gig Services Platform — SIH 26089
-
-A cooperative marketplace connecting customers with verified workers, supporting service booking, worker management, and AI-assisted demand forecasting.
-
-**Stack:** `Java` · `Spring Boot` · `MySQL` · `FastAPI` · `Flutter` · `Docker`
-
-[![Source code](https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github)](https://github.com/injmam089/cooperative-gig-platform)
-[![Live demo](https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square)](https://cooperative-gig-platform.onrender.com/)
-
-### 🍽️ SAVOR — Restaurant Ordering Platform
-
-A full-stack restaurant platform with online ordering, table reservations, authentication, admin management, and a responsive user interface.
-
-**Stack:** `Next.js` · `TypeScript` · `PostgreSQL` · `Prisma` · `NextAuth`
-
-[![Source code](https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github)](https://github.com/injmam089/savor)
-[![Live demo](https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&logo=vercel)](https://savor-lime.vercel.app/)
-
-### 🌍 LANDSAFE — Vishwakarma 2026
-
-An IoT landslide-monitoring prototype with real-time sensor telemetry, automated risk evaluation, device-health monitoring, and emergency alerts.
-
-**Stack:** `Java` · `Spring Boot` · `PostgreSQL` · `STOMP WebSocket` · `React` · `TypeScript` · `Docker`
-
-[![Source code](https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github)](https://github.com/injmam089/vishwakarma-2026)
-[![Live demo](https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square)](https://vishwakarma-2026.vercel.app/)
-
-### ♻️ Smart Waste Classifier
-
-A camera-based Progressive Web App that classifies recyclable, organic, and e-waste, then provides category-specific disposal guidance.
-
-**Stack:** `HTML5` · `CSS3` · `JavaScript` · `Teachable Machine` · `PWA`
-
-[![Source code](https://img.shields.io/badge/Source%20code-View-334155?style=flat-square&logo=github)](https://github.com/injmam089/smart-waste-classifier)
-[![Live demo](https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&logo=vercel)](https://smart-waste-classifier-steel.vercel.app/)
+<table width="100%" border="0" cellpadding="8" cellspacing="0">
+  <tr>
+    <td width="50%" valign="top">
+      <table width="100%" border="1" bordercolor="#263449" cellpadding="10" cellspacing="0">
+        <tr><td>
+          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/password-analyzer.svg" width="100%" alt="Illustrative UI preview of the Password Strength and Security Analyzer">
+          <p><sub><strong>SECURITY TOOL · CLIENT-SIDE WEB APP</strong></sub></p>
+          <h3>🔐 Password Strength &amp; Security Analyzer</h3>
+          <p>A privacy-first browser tool for password-strength analysis, common-password checks, contextual recommendations, and secure password generation.</p>
+          <p><strong>Stack</strong><br><code>HTML5</code> · <code>CSS3</code> · <code>JavaScript</code> · <code>Web Crypto API</code></p>
+          <p>
+            <a href="https://github.com/injmam089/password-strength-security-analyzer-web"><img src="https://img.shields.io/badge/Repository-View-334155?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View source repository"></a>
+            <a href="https://password-strength-security-analyzer-zeta.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Open live demo"></a>
+          </p>
+        </td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table width="100%" border="1" bordercolor="#263449" cellpadding="10" cellspacing="0">
+        <tr><td>
+          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/hams.svg" width="100%" alt="Illustrative UI preview of the HAMS hospital appointment dashboard">
+          <p><sub><strong>HEALTHCARE · FULL-STACK PLATFORM</strong></sub></p>
+          <h3>🏥 HAMS — Hospital Appointment Management System</h3>
+          <p>A healthcare platform with secure authentication, role-based access, appointment workflows, and consultation and prescription management.</p>
+          <p><strong>Stack</strong><br><code>Java 17</code> · <code>Spring Boot</code> · <code>Spring Security</code> · <code>PostgreSQL</code> · <code>JWT</code> · <code>Docker</code></p>
+          <p>
+            <a href="https://github.com/injmam089/Hospital-Appointment-Management-System"><img src="https://img.shields.io/badge/Repository-View-334155?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View source repository"></a>
+            <a href="https://hospital-appointment-management-sys-three.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Open live demo"></a>
+          </p>
+        </td></tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <table width="100%" border="1" bordercolor="#263449" cellpadding="10" cellspacing="0">
+        <tr><td>
+          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/cooperative-gig.svg" width="100%" alt="Illustrative UI preview of the Cooperative Gig Services marketplace">
+          <p><sub><strong>MARKETPLACE · SMART INDIA HACKATHON 26089</strong></sub></p>
+          <h3>🤝 Cooperative Gig Services Platform — SIH 26089</h3>
+          <p>A cooperative marketplace connecting customers with verified workers, supporting service booking, worker management, and AI-assisted demand forecasting.</p>
+          <p><strong>Stack</strong><br><code>Java</code> · <code>Spring Boot</code> · <code>MySQL</code> · <code>FastAPI</code> · <code>Flutter</code> · <code>Docker</code></p>
+          <p>
+            <a href="https://github.com/injmam089/cooperative-gig-platform"><img src="https://img.shields.io/badge/Repository-View-334155?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View source repository"></a>
+            <a href="https://cooperative-gig-platform.onrender.com/"><img src="https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square" alt="Open live demo"></a>
+          </p>
+        </td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table width="100%" border="1" bordercolor="#263449" cellpadding="10" cellspacing="0">
+        <tr><td>
+          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/savor.svg" width="100%" alt="Illustrative UI preview of the SAVOR restaurant menu and reservation interface">
+          <p><sub><strong>FOOD &amp; HOSPITALITY · FULL-STACK WEB APP</strong></sub></p>
+          <h3>🍽️ SAVOR — Restaurant Ordering Platform</h3>
+          <p>A full-stack restaurant platform with online ordering, table reservations, authentication, admin management, and a responsive user interface.</p>
+          <p><strong>Stack</strong><br><code>Next.js</code> · <code>TypeScript</code> · <code>PostgreSQL</code> · <code>Prisma</code> · <code>NextAuth</code></p>
+          <p>
+            <a href="https://github.com/injmam089/savor"><img src="https://img.shields.io/badge/Repository-View-334155?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View source repository"></a>
+            <a href="https://savor-lime.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Open live demo"></a>
+          </p>
+        </td></tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <table width="100%" border="1" bordercolor="#263449" cellpadding="10" cellspacing="0">
+        <tr><td>
+          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/landsafe.svg" width="100%" alt="Illustrative UI preview of the LANDSAFE IoT landslide-monitoring dashboard">
+          <p><sub><strong>IOT · VISHWAKARMA 2026</strong></sub></p>
+          <h3>🌍 LANDSAFE — Vishwakarma 2026</h3>
+          <p>An IoT landslide-monitoring prototype with real-time sensor telemetry, automated risk evaluation, device-health monitoring, and emergency alerts.</p>
+          <p><strong>Stack</strong><br><code>Java</code> · <code>Spring Boot</code> · <code>PostgreSQL</code> · <code>STOMP WebSocket</code> · <code>React</code> · <code>TypeScript</code> · <code>Docker</code></p>
+          <p>
+            <a href="https://github.com/injmam089/vishwakarma-2026"><img src="https://img.shields.io/badge/Repository-View-334155?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View source repository"></a>
+            <a href="https://vishwakarma-2026.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square" alt="Open live demo"></a>
+          </p>
+        </td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <table width="100%" border="1" bordercolor="#263449" cellpadding="10" cellspacing="0">
+        <tr><td>
+          <img src="https://raw.githubusercontent.com/injmam089/injmam089/1163781ef254c5fd22a580bae37d15c2c14cc3f5/assets/projects/smart-waste.svg" width="100%" alt="Illustrative UI preview of the Smart Waste Classifier camera scanning interface">
+          <p><sub><strong>AI · PROGRESSIVE WEB APP</strong></sub></p>
+          <h3>♻️ Smart Waste Classifier</h3>
+          <p>A camera-based Progressive Web App that classifies recyclable, organic, and e-waste, then provides category-specific disposal guidance.</p>
+          <p><strong>Stack</strong><br><code>HTML5</code> · <code>CSS3</code> · <code>JavaScript</code> · <code>Teachable Machine</code> · <code>PWA</code></p>
+          <p>
+            <a href="https://github.com/injmam089/smart-waste-classifier"><img src="https://img.shields.io/badge/Repository-View-334155?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View source repository"></a>
+            <a href="https://smart-waste-classifier-steel.vercel.app/"><img src="https://img.shields.io/badge/Live%20demo-Open-059669?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Open live demo"></a>
+          </p>
+        </td></tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><strong>More projects — UniPortal, SAHAYAK, NovaMart and CyberTorque 2D</strong></summary>
@@ -179,6 +228,10 @@ A camera-based Progressive Web App that classifies recyclable, organic, and e-wa
 | **CyberTorque 2D** | C++ top-down arcade racing game with vehicle physics, AI traffic, drifting, procedural audio, and save data. | [Repository](https://github.com/injmam089/CyberTorque-2D) |
 
 </details>
+
+<p align="center">
+  <sub>Preview artwork is illustrative and is not a screenshot of the live application. Project repositories and demos provide the actual implementation.</sub>
+</p>
 
 <p align="center">
   <sub>Some live demos use free hosting and may take a little time to wake up on the first visit.</sub>
