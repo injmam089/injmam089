@@ -86,16 +86,27 @@ A hands-on progression from network discovery and Linux security to defensive te
 
 ### YuvaIntern · Cyber Security Analyst — Online Virtual Intern
 
-<sub>04 October 2026 – 04 November 2026</sub>
+<sub>04 October 2026 – 04 November 2026 · 4 assignments documented</sub>
 
 Virtual internship assignments covering cyber threat landscape analysis, network security configuration, incident response simulation, and security policy review.
 
-| Week | Assignment | Evidence |
-|:---:|---|:---:|
-| 01 | Cyber threat landscape analysis | [View assignment](https://github.com/injmam089/week-1-cyber-threat-landscape-analysis) |
-| 02 | Network security configuration | [View assignment](https://github.com/injmam089/week-2-network-security-configuration) |
-| 03 | Incident response simulation | [View assignment](https://github.com/injmam089/week-3-incident-response-simulation) |
-| 04 | Security policy review | [View assignment](https://github.com/injmam089/week-4-security-policy-review) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/injmam089/injmam089/f17abd55c1c32c0044981f0bd9d999a3251cdb89/assets/yuva-intern-journey-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/injmam089/injmam089/f17abd55c1c32c0044981f0bd9d999a3251cdb89/assets/yuva-intern-journey-light.svg">
+  <img src="https://raw.githubusercontent.com/injmam089/injmam089/f17abd55c1c32c0044981f0bd9d999a3251cdb89/assets/yuva-intern-journey-dark.svg" alt="YuvaIntern cyber security analyst journey: four assignments covering cyber threat landscape analysis, network security configuration, incident response simulation, and security policy review." width="100%">
+</picture>
+
+<p align="center">
+  <sub><strong>WEEKLY ASSIGNMENT EVIDENCE</strong> · Open each repository to explore the work</sub>
+</p>
+
+<p align="center">
+  <a href="https://github.com/injmam089/week-1-cyber-threat-landscape-analysis"><img src="https://img.shields.io/badge/W01-Threat%20Landscape-047857?style=flat-square" alt="Week 1 — Cyber threat landscape analysis"></a>
+  <a href="https://github.com/injmam089/week-2-network-security-configuration"><img src="https://img.shields.io/badge/W02-Network%20Security-0369a1?style=flat-square" alt="Week 2 — Network security configuration"></a>
+  <br>
+  <a href="https://github.com/injmam089/week-3-incident-response-simulation"><img src="https://img.shields.io/badge/W03-Incident%20Response-6d28d9?style=flat-square" alt="Week 3 — Incident response simulation"></a>
+  <a href="https://github.com/injmam089/week-4-security-policy-review"><img src="https://img.shields.io/badge/W04-Policy%20Review-a16207?style=flat-square" alt="Week 4 — Security policy review"></a>
+</p>
 
 ---
 
