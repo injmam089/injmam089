@@ -280,17 +280,11 @@ A curated selection of application, backend, IoT, and security-focused work. Eac
   <sub>Live profile metrics · all-time commit count · contribution streak</sub>
 </p>
 
-<p align="center">
-  <a href="https://github.com/rowkavdev/GitHub-profile-stats">
-    <img src="https://ghstats.dev/api/mini?username=injmam089&metric=commits&alltime=true&color=34d399&style=for-the-badge" alt="All-time commits">
-  </a>
-</p>
-
 <table align="center">
   <tr>
     <td width="50%" valign="top" align="center">
-      <a href="https://github.com/rowkavdev/GitHub-profile-stats">
-        <img src="https://ghstats.dev/api/card?username=injmam089&alltime=true&hide=commits&theme=forest&hide_border=true&bg=0b1220&text=cbd5e1&title_color=86efac&icon_color=34d399&border_color=263449&custom_title=GitHub%20Activity%20%26%20All-time%20Totals" width="100%" alt="GitHub activity and all-time totals">
+      <a href="https://github.com/stats-organization/github-stats-extended">
+        <img src="https://github-stats-extended.vercel.app/api?username=injmam089&show_icons=true&include_all_commits=true&theme=forest&hide_border=true&bg_color=0b1220&text_color=cbd5e1&title_color=86efac&icon_color=34d399&border_color=263449&custom_title=GitHub%20Activity%20%26%20All-time%20Totals" width="100%" alt="GitHub activity and all-time totals">
       </a>
     </td>
     <td width="50%" valign="top" align="center">
@@ -341,4 +335,3 @@ A curated selection of application, backend, IoT, and security-focused work. Eac
 <sub>Thanks for visiting my profile · © 2026 Injmam Ansari</sub>
 
 </div>
-
